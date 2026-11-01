@@ -2,23 +2,23 @@
  "blocos": [
   {
    "id": "B01",
-   "narracao": "",
-   "visual": "Fuga de madrugada sem violência: ponte, carro cinza, atalho de motorista de aplicativo"
+   "narracao": "Short version, if you just got here. I was three weeks behind on my rental car when a passenger left two hundred grand in my trunk. At an all-night diner, his daughter, Laura, offered me five grand to keep it safe till morning. Then a guy named Vince offered me fifty grand to hand it over. I grabbed the bag. When Laura came back in from the parking lot, I was already standing by the door. \"Your car or mine?\" I said. Vince didn't even look surprised. He just left a few bucks on the counter and followed us out. We took my car. A gray sedan pulled out behind us before we'd even hit the first light. Laura gave me directions to her lawyer's office across the river, and I ignored about half of them. Here's the thing about driving rideshare. You learn every shortcut in the city. The alley behind the bakery that skips two lights. The parking garage with an exit on the other street. By the time we crossed the bridge, the gray sedan was gone.",
+   "visual": "Recapitulação (mapa da árvore com o caminho aceso) + Kai pega a bolsa; 'Your car or mine?'; Vince os segue no sedã cinza; atalhos de motorista de aplicativo; a ponte; o sedã some (sem violência)"
   },
   {
    "id": "B02",
-   "narracao": "",
-   "visual": "A advogada recebe a bolsa ao amanhecer"
+   "narracao": "We waited in the lawyer's parking lot until the sun came up, with the bag between us, drinking vending machine coffee. Laura told me about her dad. How he packed her lunches all through high school. How he'd been quiet for months, working late, like something was eating him alive. At eight sharp, a woman in a navy blazer unlocked the building, took one look at the bag, and said, \"You must be Kai. Harold said you might come.\" Harold said. He'd been planning this. Then Laura pulled out her checkbook to pay me the five thousand, and the lawyer put a hand on it. \"Not now,\" she said. \"If you pay a witness before this is over, Brandt's lawyers will say you bought his story.\" Laura looked at me like she wanted to apologize. I told her it was fine. It wasn't. No five grand meant no payment. On Monday, the rental company came for the car. I handed over the keys in a parking lot and took the bus home. No car, no job, and a hospital bill on the fridge. I'd done the right thing. It didn't feel great.",
+   "visual": "A madrugada no estacionamento da advogada; Laura fala do pai; às oito, a advogada: 'Harold said you might come'; segunda-feira, o carro recolhido"
   },
   {
    "id": "B03",
-   "narracao": "",
-   "visual": "Harold solto explica o carro sem adesivo e o 'I'm sorry'; carro recolhido; esperança + Ending 2 of 4"
+   "narracao": "Ten days later, the charges against Harold were dropped, and he asked to meet me at the same diner. He looked smaller in daylight. \"I owe you an explanation,\" he said. That night, Brandt's security guy had been watching the pickup spot outside the office, checking every rideshare car that pulled up. And every one of them had the app's sticker on the windshield. Except mine. Mine peeled off in a car wash months ago, and I never bothered to replace it. \"I canceled two cars because they had stickers,\" Harold said. \"Yours looked like somebody's regular car. Nobody would think twice. That's why I asked for your number. And that's why I said I was sorry.\" Then he slid a business card across the table. A friend of his ran a delivery company. They needed drivers. Company van included.",
+   "visual": "Dez dias depois, o Harold solto no diner: o carro sem adesivo, o escritório vigiado, os dois carros cancelados, o número, o 'I'm sorry' (P1); o cartão de visita"
   },
   {
    "id": "CTA",
-   "narracao": "",
-   "visual": "contador de finais + convite para os outros caminhos"
+   "narracao": "That's ending two of four. You know why the bag ended up in my car. But you still don't know where that money came from. Go back and try another path. The full map is pinned in the comments.",
+   "visual": "Contador 'Ending 2 of 4' + mapa"
   }
  ]
 }

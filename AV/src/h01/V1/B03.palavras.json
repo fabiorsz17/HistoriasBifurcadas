@@ -1,0 +1,884 @@
+{
+ "words": [
+  {
+   "text": "He",
+   "startMs": 0,
+   "endMs": 80
+  },
+  {
+   "text": "was",
+   "startMs": 160,
+   "endMs": 240
+  },
+  {
+   "text": "waiting",
+   "startMs": 320,
+   "endMs": 560
+  },
+  {
+   "text": "on",
+   "startMs": 600,
+   "endMs": 640
+  },
+  {
+   "text": "the",
+   "startMs": 720,
+   "endMs": 800
+  },
+  {
+   "text": "curb",
+   "startMs": 880,
+   "endMs": 1200
+  },
+  {
+   "text": "outside",
+   "startMs": 1400,
+   "endMs": 1600
+  },
+  {
+   "text": "an",
+   "startMs": 1640,
+   "endMs": 1680
+  },
+  {
+   "text": "office",
+   "startMs": 1760,
+   "endMs": 2000
+  },
+  {
+   "text": "building.",
+   "startMs": 2080,
+   "endMs": 3040
+  },
+  {
+   "text": "Older",
+   "startMs": 3120,
+   "endMs": 3360
+  },
+  {
+   "text": "guy,",
+   "startMs": 3400,
+   "endMs": 3960
+  },
+  {
+   "text": "maybe",
+   "startMs": 4000,
+   "endMs": 4240
+  },
+  {
+   "text": "sixty,",
+   "startMs": 4320,
+   "endMs": 4920
+  },
+  {
+   "text": "in",
+   "startMs": 4960,
+   "endMs": 5040
+  },
+  {
+   "text": "a",
+   "startMs": 5120,
+   "endMs": 5147
+  },
+  {
+   "text": "wrinkled",
+   "startMs": 5173,
+   "endMs": 5520
+  },
+  {
+   "text": "suit.",
+   "startMs": 5600,
+   "endMs": 6520
+  },
+  {
+   "text": "Before",
+   "startMs": 6560,
+   "endMs": 6800
+  },
+  {
+   "text": "I",
+   "startMs": 6960,
+   "endMs": 6987
+  },
+  {
+   "text": "could",
+   "startMs": 7013,
+   "endMs": 7040
+  },
+  {
+   "text": "even",
+   "startMs": 7120,
+   "endMs": 7280
+  },
+  {
+   "text": "get",
+   "startMs": 7360,
+   "endMs": 7440
+  },
+  {
+   "text": "out",
+   "startMs": 7520,
+   "endMs": 7600
+  },
+  {
+   "text": "to",
+   "startMs": 7680,
+   "endMs": 7760
+  },
+  {
+   "text": "help,",
+   "startMs": 7840,
+   "endMs": 8360
+  },
+  {
+   "text": "he",
+   "startMs": 8400,
+   "endMs": 8480
+  },
+  {
+   "text": "threw",
+   "startMs": 8560,
+   "endMs": 8640
+  },
+  {
+   "text": "a",
+   "startMs": 8720,
+   "endMs": 8800
+  },
+  {
+   "text": "black",
+   "startMs": 9000,
+   "endMs": 9200
+  },
+  {
+   "text": "duffel",
+   "startMs": 9280,
+   "endMs": 9520
+  },
+  {
+   "text": "bag",
+   "startMs": 9640,
+   "endMs": 9760
+  },
+  {
+   "text": "in",
+   "startMs": 9800,
+   "endMs": 9840
+  },
+  {
+   "text": "my",
+   "startMs": 9920,
+   "endMs": 10000
+  },
+  {
+   "text": "trunk",
+   "startMs": 10080,
+   "endMs": 10560
+  },
+  {
+   "text": "and",
+   "startMs": 10640,
+   "endMs": 10720
+  },
+  {
+   "text": "climbed",
+   "startMs": 10800,
+   "endMs": 11040
+  },
+  {
+   "text": "in",
+   "startMs": 11080,
+   "endMs": 11120
+  },
+  {
+   "text": "the",
+   "startMs": 11200,
+   "endMs": 11280
+  },
+  {
+   "text": "back",
+   "startMs": 11440,
+   "endMs": 11600
+  },
+  {
+   "text": "with",
+   "startMs": 11640,
+   "endMs": 11680
+  },
+  {
+   "text": "a",
+   "startMs": 11760,
+   "endMs": 11800
+  },
+  {
+   "text": "little",
+   "startMs": 11840,
+   "endMs": 12080
+  },
+  {
+   "text": "carry-on",
+   "startMs": 12240,
+   "endMs": 12560
+  },
+  {
+   "text": "on",
+   "startMs": 12640,
+   "endMs": 12720
+  },
+  {
+   "text": "his",
+   "startMs": 12800,
+   "endMs": 12880
+  },
+  {
+   "text": "lap.",
+   "startMs": 13360,
+   "endMs": 13880
+  },
+  {
+   "text": "His",
+   "startMs": 13920,
+   "endMs": 14080
+  },
+  {
+   "text": "name",
+   "startMs": 14160,
+   "endMs": 14240
+  },
+  {
+   "text": "on",
+   "startMs": 14320,
+   "endMs": 14400
+  },
+  {
+   "text": "the",
+   "startMs": 14480,
+   "endMs": 14560
+  },
+  {
+   "text": "app",
+   "startMs": 14640,
+   "endMs": 15040
+  },
+  {
+   "text": "was",
+   "startMs": 15120,
+   "endMs": 15280
+  },
+  {
+   "text": "Harold.",
+   "startMs": 15400,
+   "endMs": 16440
+  },
+  {
+   "text": "The",
+   "startMs": 16480,
+   "endMs": 16560
+  },
+  {
+   "text": "whole",
+   "startMs": 16680,
+   "endMs": 16800
+  },
+  {
+   "text": "ride,",
+   "startMs": 16880,
+   "endMs": 17400
+  },
+  {
+   "text": "he",
+   "startMs": 17440,
+   "endMs": 17520
+  },
+  {
+   "text": "kept",
+   "startMs": 17600,
+   "endMs": 17760
+  },
+  {
+   "text": "turning",
+   "startMs": 17840,
+   "endMs": 18000
+  },
+  {
+   "text": "around",
+   "startMs": 18160,
+   "endMs": 18400
+  },
+  {
+   "text": "to",
+   "startMs": 18480,
+   "endMs": 18560
+  },
+  {
+   "text": "look",
+   "startMs": 18640,
+   "endMs": 18720
+  },
+  {
+   "text": "out",
+   "startMs": 18800,
+   "endMs": 18880
+  },
+  {
+   "text": "the",
+   "startMs": 18920,
+   "endMs": 18960
+  },
+  {
+   "text": "back",
+   "startMs": 19040,
+   "endMs": 19200
+  },
+  {
+   "text": "window.",
+   "startMs": 19280,
+   "endMs": 20440
+  },
+  {
+   "text": "Halfway",
+   "startMs": 20480,
+   "endMs": 20800
+  },
+  {
+   "text": "there,",
+   "startMs": 20880,
+   "endMs": 21400
+  },
+  {
+   "text": "he",
+   "startMs": 21440,
+   "endMs": 21520
+  },
+  {
+   "text": "asked",
+   "startMs": 21600,
+   "endMs": 21760
+  },
+  {
+   "text": "me",
+   "startMs": 21800,
+   "endMs": 21840
+  },
+  {
+   "text": "to",
+   "startMs": 21920,
+   "endMs": 22000
+  },
+  {
+   "text": "skip",
+   "startMs": 22080,
+   "endMs": 22320
+  },
+  {
+   "text": "the",
+   "startMs": 22360,
+   "endMs": 22400
+  },
+  {
+   "text": "highway",
+   "startMs": 22480,
+   "endMs": 22960
+  },
+  {
+   "text": "and",
+   "startMs": 23040,
+   "endMs": 23120
+  },
+  {
+   "text": "take",
+   "startMs": 23200,
+   "endMs": 23280
+  },
+  {
+   "text": "the",
+   "startMs": 23360,
+   "endMs": 23440
+  },
+  {
+   "text": "side",
+   "startMs": 23600,
+   "endMs": 23760
+  },
+  {
+   "text": "streets.",
+   "startMs": 23840,
+   "endMs": 24880
+  },
+  {
+   "text": "Then",
+   "startMs": 24920,
+   "endMs": 24960
+  },
+  {
+   "text": "he",
+   "startMs": 25040,
+   "endMs": 25120
+  },
+  {
+   "text": "said,",
+   "startMs": 25200,
+   "endMs": 25733
+  },
+  {
+   "text": "kind",
+   "startMs": 25787,
+   "endMs": 25840
+  },
+  {
+   "text": "of",
+   "startMs": 25880,
+   "endMs": 25920
+  },
+  {
+   "text": "to",
+   "startMs": 26000,
+   "endMs": 26080
+  },
+  {
+   "text": "himself,",
+   "startMs": 26160,
+   "endMs": 27120
+  },
+  {
+   "text": "\"I",
+   "startMs": 27200,
+   "endMs": 27360
+  },
+  {
+   "text": "canceled",
+   "startMs": 27400,
+   "endMs": 27840
+  },
+  {
+   "text": "two",
+   "startMs": 27960,
+   "endMs": 28080
+  },
+  {
+   "text": "cars",
+   "startMs": 28160,
+   "endMs": 28480
+  },
+  {
+   "text": "before",
+   "startMs": 28680,
+   "endMs": 28880
+  },
+  {
+   "text": "yours.\"",
+   "startMs": 28920,
+   "endMs": 30120
+  },
+  {
+   "text": "At",
+   "startMs": 30160,
+   "endMs": 30240
+  },
+  {
+   "text": "a",
+   "startMs": 30320,
+   "endMs": 30400
+  },
+  {
+   "text": "red",
+   "startMs": 30480,
+   "endMs": 30560
+  },
+  {
+   "text": "light,",
+   "startMs": 30800,
+   "endMs": 31093
+  },
+  {
+   "text": "he",
+   "startMs": 31147,
+   "endMs": 31200
+  },
+  {
+   "text": "leaned",
+   "startMs": 31320,
+   "endMs": 31520
+  },
+  {
+   "text": "forward",
+   "startMs": 31600,
+   "endMs": 32000
+  },
+  {
+   "text": "and",
+   "startMs": 32080,
+   "endMs": 32160
+  },
+  {
+   "text": "reached",
+   "startMs": 32240,
+   "endMs": 32480
+  },
+  {
+   "text": "under",
+   "startMs": 32560,
+   "endMs": 32720
+  },
+  {
+   "text": "the",
+   "startMs": 32800,
+   "endMs": 32880
+  },
+  {
+   "text": "seat",
+   "startMs": 32960,
+   "endMs": 33040
+  },
+  {
+   "text": "in",
+   "startMs": 33120,
+   "endMs": 33200
+  },
+  {
+   "text": "front",
+   "startMs": 33280,
+   "endMs": 33440
+  },
+  {
+   "text": "of",
+   "startMs": 33480,
+   "endMs": 33520
+  },
+  {
+   "text": "him",
+   "startMs": 33640,
+   "endMs": 33760
+  },
+  {
+   "text": "for",
+   "startMs": 33800,
+   "endMs": 33840
+  },
+  {
+   "text": "a",
+   "startMs": 34080,
+   "endMs": 34187
+  },
+  {
+   "text": "good",
+   "startMs": 34293,
+   "endMs": 34400
+  },
+  {
+   "text": "ten",
+   "startMs": 34480,
+   "endMs": 34720
+  },
+  {
+   "text": "seconds.",
+   "startMs": 34800,
+   "endMs": 35920
+  },
+  {
+   "text": "\"Dropped",
+   "startMs": 35960,
+   "endMs": 36160
+  },
+  {
+   "text": "my",
+   "startMs": 36240,
+   "endMs": 36320
+  },
+  {
+   "text": "pen,\"",
+   "startMs": 36400,
+   "endMs": 37000
+  },
+  {
+   "text": "he",
+   "startMs": 37040,
+   "endMs": 37120
+  },
+  {
+   "text": "said.",
+   "startMs": 37200,
+   "endMs": 38120
+  },
+  {
+   "text": "Right",
+   "startMs": 38160,
+   "endMs": 38320
+  },
+  {
+   "text": "before",
+   "startMs": 38440,
+   "endMs": 38560
+  },
+  {
+   "text": "the",
+   "startMs": 38640,
+   "endMs": 38720
+  },
+  {
+   "text": "airport,",
+   "startMs": 39040,
+   "endMs": 39387
+  },
+  {
+   "text": "he",
+   "startMs": 39413,
+   "endMs": 39440
+  },
+  {
+   "text": "asked",
+   "startMs": 39520,
+   "endMs": 39680
+  },
+  {
+   "text": "for",
+   "startMs": 39760,
+   "endMs": 39840
+  },
+  {
+   "text": "my",
+   "startMs": 39920,
+   "endMs": 40000
+  },
+  {
+   "text": "number,",
+   "startMs": 40320,
+   "endMs": 40680
+  },
+  {
+   "text": "in",
+   "startMs": 40720,
+   "endMs": 40800
+  },
+  {
+   "text": "case",
+   "startMs": 40920,
+   "endMs": 41040
+  },
+  {
+   "text": "he",
+   "startMs": 41080,
+   "endMs": 41120
+  },
+  {
+   "text": "left",
+   "startMs": 41200,
+   "endMs": 41360
+  },
+  {
+   "text": "something",
+   "startMs": 41520,
+   "endMs": 41680
+  },
+  {
+   "text": "in",
+   "startMs": 41720,
+   "endMs": 41760
+  },
+  {
+   "text": "the",
+   "startMs": 41800,
+   "endMs": 41840
+  },
+  {
+   "text": "car.",
+   "startMs": 41920,
+   "endMs": 43067
+  },
+  {
+   "text": "People",
+   "startMs": 43173,
+   "endMs": 43280
+  },
+  {
+   "text": "leave",
+   "startMs": 43400,
+   "endMs": 43520
+  },
+  {
+   "text": "stuff",
+   "startMs": 43600,
+   "endMs": 43920
+  },
+  {
+   "text": "all",
+   "startMs": 44000,
+   "endMs": 44080
+  },
+  {
+   "text": "the",
+   "startMs": 44160,
+   "endMs": 44240
+  },
+  {
+   "text": "time.",
+   "startMs": 44320,
+   "endMs": 45200
+  },
+  {
+   "text": "Nobody",
+   "startMs": 45360,
+   "endMs": 45520
+  },
+  {
+   "text": "asks",
+   "startMs": 45600,
+   "endMs": 45840
+  },
+  {
+   "text": "for",
+   "startMs": 45920,
+   "endMs": 46000
+  },
+  {
+   "text": "your",
+   "startMs": 46080,
+   "endMs": 46160
+  },
+  {
+   "text": "number",
+   "startMs": 46360,
+   "endMs": 46560
+  },
+  {
+   "text": "first.",
+   "startMs": 46640,
+   "endMs": 47800
+  },
+  {
+   "text": "At",
+   "startMs": 47840,
+   "endMs": 47920
+  },
+  {
+   "text": "departures,",
+   "startMs": 48120,
+   "endMs": 48760
+  },
+  {
+   "text": "he",
+   "startMs": 48800,
+   "endMs": 48880
+  },
+  {
+   "text": "grabbed",
+   "startMs": 48960,
+   "endMs": 49200
+  },
+  {
+   "text": "my",
+   "startMs": 49280,
+   "endMs": 49360
+  },
+  {
+   "text": "shoulder.",
+   "startMs": 49440,
+   "endMs": 50507
+  },
+  {
+   "text": "\"Thank",
+   "startMs": 50533,
+   "endMs": 50800
+  },
+  {
+   "text": "you,",
+   "startMs": 50840,
+   "endMs": 50920
+  },
+  {
+   "text": "Kai,\"",
+   "startMs": 50960,
+   "endMs": 51560
+  },
+  {
+   "text": "he",
+   "startMs": 51600,
+   "endMs": 51680
+  },
+  {
+   "text": "said.",
+   "startMs": 51760,
+   "endMs": 52440
+  },
+  {
+   "text": "\"I'm",
+   "startMs": 52480,
+   "endMs": 52640
+  },
+  {
+   "text": "sorry.\"",
+   "startMs": 52720,
+   "endMs": 53880
+  },
+  {
+   "text": "A",
+   "startMs": 53920,
+   "endMs": 54000
+  },
+  {
+   "text": "traffic",
+   "startMs": 54200,
+   "endMs": 54400
+  },
+  {
+   "text": "cop",
+   "startMs": 54520,
+   "endMs": 54640
+  },
+  {
+   "text": "was",
+   "startMs": 54720,
+   "endMs": 54800
+  },
+  {
+   "text": "already",
+   "startMs": 54960,
+   "endMs": 55200
+  },
+  {
+   "text": "waving",
+   "startMs": 55280,
+   "endMs": 55520
+  },
+  {
+   "text": "me",
+   "startMs": 55600,
+   "endMs": 55680
+  },
+  {
+   "text": "off",
+   "startMs": 55760,
+   "endMs": 55920
+  },
+  {
+   "text": "the",
+   "startMs": 55960,
+   "endMs": 56000
+  },
+  {
+   "text": "curb,",
+   "startMs": 56080,
+   "endMs": 56680
+  },
+  {
+   "text": "so",
+   "startMs": 56720,
+   "endMs": 57040
+  },
+  {
+   "text": "I",
+   "startMs": 57200,
+   "endMs": 57240
+  },
+  {
+   "text": "just",
+   "startMs": 57280,
+   "endMs": 57440
+  },
+  {
+   "text": "drove.",
+   "startMs": 57560,
+   "endMs": 58640
+  }
+ ]
+}

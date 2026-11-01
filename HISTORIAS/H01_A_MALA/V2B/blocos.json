@@ -2,27 +2,27 @@
  "blocos": [
   {
    "id": "B01",
-   "narracao": "",
-   "visual": "Recapitulação + mapa; delegacia; Detective Bell; dinheiro achado vai à polícia e o dono costuma dar recompensa"
+   "narracao": "I'm Kai. I drive rideshare. That night, I was three weeks behind on my rental car, I had a hospital bill I'd be paying off until I was forty, and I'd just found two hundred thousand dollars in my trunk. A woman on the phone begged me not to go to the police. I went anyway. The night desk at the precinct was pretty much dead. Just one detective, Sharon Bell, reading glasses pushed up on her head, and a pot of coffee that smelled burnt. I set the bag on the counter and told her I'd found it in my car. She unzipped it, looked at the money, then looked at me for a really long time. \"You know most people don't bring this in, right?\" she said. \"Found money comes to us. That's the rule. And if the owner shows up, they usually give the finder a reward. Sometimes a decent one.\" Then she called the number on a report she'd pulled up, said the money had turned up, and pointed at a chair. \"Sit. This is going to take a while.\"",
+   "visual": "Recapitulação + mapa; a delegacia de madrugada; Detective Bell; a regra de entregar dinheiro achado e a recompensa do dono"
   },
   {
    "id": "B02",
-   "narracao": "",
-   "visual": "Harold detido no aeroporto; Laura chega"
+   "narracao": "I sat in a plastic chair for forty minutes. Then Detective Bell came back with a printout. \"Your passenger,\" she said. \"Harold Pruitt. They picked him up at the airport an hour ago. Theft. His employer says he walked off with two hundred thousand dollars in company cash.\" So the woman on the phone wasn't exaggerating. Her dad was actually going to prison. About ten minutes later, the door opened, and it was her. Laura. Scrubs, car keys still in her hand, eyes all red. \"They're bringing my dad in here,\" she told the guy at the front desk. \"I'm his daughter.\" Then she turned around and saw the bag on the detective's desk and just closed her eyes. \"You brought it here,\" she said. She didn't sound mad. Just tired. She looked at the detective. \"He didn't steal anything. I swear to you. He was trying to stop something.\" Detective Bell nodded and wrote it down. She didn't look surprised. I got the feeling she heard that a lot.",
+   "visual": "A notícia: Harold detido no aeroporto (P5 se cumpre); Laura chega de scrubs; 'He was trying to stop something'"
   },
   {
    "id": "B03",
-   "narracao": "",
-   "visual": "O horário da queixa: nine-ten ('he wasn't even in my car yet')"
+   "narracao": "Detective Bell read the report out loud, mostly to herself. \"Theft reported by Russell Brandt, owner of Brandt Markets. Filed at nine-ten p.m.\" And something about that bugged me. I pulled up the ride on my phone. Pickup, ten-forty p.m. I even zoomed in on the time, like it might change if I stared at it long enough. At nine-ten, Harold wasn't even in my car yet. He still had the bag. He was still at the office, waiting for a ride. So how did his boss already know the money was gone? I looked at Laura. Laura looked at me. She'd done the same math. I opened my mouth to say it out loud, to the detective, to anybody who'd listen. And right then, the door swung open again.",
+   "visual": "O horário (P6): a queixa às nine-ten; o recibo da corrida às ten-forty; a porta abre de novo"
   },
   {
    "id": "B04",
-   "narracao": "",
-   "visual": "Vince como representante; Brandt no viva-voz oferece dez por cento (twenty thousand dollars)"
+   "narracao": "A guy in a gray jacket walked in like he owned the place. \"Name's Vince,\" he told the detective. \"I'm here for Mister Brandt. The victim.\" He put his phone on the counter, on speaker, and this smooth voice came out. \"Kai, is it? Russell Brandt. Listen, I hear you're an honest guy. That's rare. I'd like to give you ten percent of what you found, as a thank-you. That's twenty thousand dollars. All you have to do is sign a statement that you found the bag in your car, and then go home and get some sleep.\" Twenty grand. I did the math in about half a second. Hospital bill, done. Car, done. Laura was staring at me. So was Detective Bell. And the report on the desk still said nine-ten.",
+   "visual": "Vince como representante; Brandt no viva-voz oferece dez por cento (vinte mil); todos olham para o Kai; selo 'Your choice is coming'"
   },
   {
    "id": "ESCOLHA",
-   "narracao": "",
+   "narracao": "So there it is. Twenty grand on one side, nine-ten on the other. If you think I should tell them everything, tap the video on the left. If I should sign, take the reward, and stay out of it, tap the one on the right. And you can always come back and try the other path.",
    "visual": "TelaEscolha (20 s)"
   }
  ]

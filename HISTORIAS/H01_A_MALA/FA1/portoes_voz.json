@@ -1,0 +1,122 @@
+{
+ "B01": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "c222723f74aea26d3991e266d17569b395e19a63547457f7200a42f0656d69e6"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "67 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "c222723f74aea26d3991e266d17569b395e19a63547457f7200a42f0656d69e6"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "EXCEÇÃO DO USUÁRIO (\"Sim, liberar\", 01/11/2026): humano 0,67 abaixo do corte 0,75; 8 variantes entre 0,66 e 0,71; revisor-ingles considera o texto correto e natural; perguntas do JEV ainda não calibradas para ficção.",
+   "por": "usuário (exceção)",
+   "quando": "2026-11-01T23:11:52+00:00",
+   "texto_sha": "c222723f74aea26d3991e266d17569b395e19a63547457f7200a42f0656d69e6"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 3: recap fiel ao V1 e V2A, sem adiantar o forro; situa a dívida, a Laura e o Vince (obs. baixa: o nome Kai não aparece no FA1, mas 'a passenger' já diz que ele é motorista); 67 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:09:48+00:00",
+   "texto_sha": "c222723f74aea26d3991e266d17569b395e19a63547457f7200a42f0656d69e6"
+  }
+ },
+ "B02": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "d14ea0df239679c7fcacf12506ea4c2a89c86a1fa7854c15fb3046522a7b3b71"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "44 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "d14ea0df239679c7fcacf12506ea4c2a89c86a1fa7854c15fb3046522a7b3b71"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.83 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "d14ea0df239679c7fcacf12506ea4c2a89c86a1fa7854c15fb3046522a7b3b71"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Consequência proporcional; caught up on the car correto (alugado); Harold acusado bate com a queixa falsa",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:15+00:00",
+   "texto_sha": "d14ea0df239679c7fcacf12506ea4c2a89c86a1fa7854c15fb3046522a7b3b71"
+  }
+ },
+ "B03": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "a2a7fa97762703e951330f13e7c6796d0994973b3bc360412186fb247e1586d3"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "54 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "a2a7fa97762703e951330f13e7c6796d0994973b3bc360412186fb247e1586d3"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.89 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:44+00:00",
+   "texto_sha": "a2a7fa97762703e951330f13e7c6796d0994973b3bc360412186fb247e1586d3"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 2: 'I bought my own car eventually' separa do carro alugado; fecho da bíblia intacto",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:03:29+00:00",
+   "texto_sha": "a2a7fa97762703e951330f13e7c6796d0994973b3bc360412186fb247e1586d3"
+  }
+ },
+ "CTA": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:45+00:00",
+   "texto_sha": "53116cb612b76f96fb31e1c79b97c29e03d25bee6d6eca48385460bf8843a473"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "14 s estimados (faixa 8–30 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:45+00:00",
+   "texto_sha": "53116cb612b76f96fb31e1c79b97c29e03d25bee6d6eca48385460bf8843a473"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.81 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:08:45+00:00",
+   "texto_sha": "53116cb612b76f96fb31e1c79b97c29e03d25bee6d6eca48385460bf8843a473"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Contador, convite e mapa; teaser coerente com o que falta",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:16+00:00",
+   "texto_sha": "53116cb612b76f96fb31e1c79b97c29e03d25bee6d6eca48385460bf8843a473"
+  }
+ }
+}

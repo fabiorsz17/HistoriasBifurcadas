@@ -1,0 +1,122 @@
+{
+ "B01": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "72cb056bb515792ba6e56927c85f76bb1cb602c6b703f70b074828acce029cbe"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "65 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "72cb056bb515792ba6e56927c85f76bb1cb602c6b703f70b074828acce029cbe"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.78 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "72cb056bb515792ba6e56927c85f76bb1cb602c6b703f70b074828acce029cbe"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 4: recap fiel ao V2A, com a dívida do aluguel e os cinco mil até de manhã, o que dá causa ao carro recolhido no B02; sem spoiler; 65 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:11:34+00:00",
+   "texto_sha": "72cb056bb515792ba6e56927c85f76bb1cb602c6b703f70b074828acce029cbe"
+  }
+ },
+ "B02": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "86d56fc58250dc41b33f73c74aa8f42ce48b30bcc066e984614407104f5adef4"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "69 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "86d56fc58250dc41b33f73c74aa8f42ce48b30bcc066e984614407104f5adef4"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.84 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "86d56fc58250dc41b33f73c74aa8f42ce48b30bcc066e984614407104f5adef4"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 2: advogada barra o pagamento a testemunha, 'No five grand meant no payment' liga a causa ao carro recolhido; nasce da escolha; 69 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:03:28+00:00",
+   "texto_sha": "86d56fc58250dc41b33f73c74aa8f42ce48b30bcc066e984614407104f5adef4"
+  }
+ },
+ "B03": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "df3ef27511b9cbc261239c108e3899e3bb6b1b80940adaf62d9cd98f5daa4913"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "54 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "df3ef27511b9cbc261239c108e3899e3bb6b1b80940adaf62d9cd98f5daa4913"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.84 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:52+00:00",
+   "texto_sha": "df3ef27511b9cbc261239c108e3899e3bb6b1b80940adaf62d9cd98f5daa4913"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Revela o pedaço 1 com clareza; P1 retomada (dois carros, I'm sorry); obs. baixa: 'That's why I asked for your number' ficaria mais claro com 'I needed a driver I could find again'",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:17+00:00",
+   "texto_sha": "df3ef27511b9cbc261239c108e3899e3bb6b1b80940adaf62d9cd98f5daa4913"
+  }
+ },
+ "CTA": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:53+00:00",
+   "texto_sha": "aaf687de9ebb92c67c0815d584bf00f5ba9fcc2b75e0af48f4da3c3cba59cd70"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "13 s estimados (faixa 8–30 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:53+00:00",
+   "texto_sha": "aaf687de9ebb92c67c0815d584bf00f5ba9fcc2b75e0af48f4da3c3cba59cd70"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.8 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:53+00:00",
+   "texto_sha": "aaf687de9ebb92c67c0815d584bf00f5ba9fcc2b75e0af48f4da3c3cba59cd70"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Contador, convite e mapa; teaser certo para o pedaço 2",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:17+00:00",
+   "texto_sha": "aaf687de9ebb92c67c0815d584bf00f5ba9fcc2b75e0af48f4da3c3cba59cd70"
+  }
+ }
+}

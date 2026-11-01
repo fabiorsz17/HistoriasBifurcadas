@@ -1,0 +1,679 @@
+{
+ "words": [
+  {
+   "text": "I",
+   "startMs": 0,
+   "endMs": 80
+  },
+  {
+   "text": "was",
+   "startMs": 160,
+   "endMs": 240
+  },
+  {
+   "text": "halfway",
+   "startMs": 320,
+   "endMs": 720
+  },
+  {
+   "text": "home",
+   "startMs": 800,
+   "endMs": 1040
+  },
+  {
+   "text": "when",
+   "startMs": 1120,
+   "endMs": 1200
+  },
+  {
+   "text": "I",
+   "startMs": 1280,
+   "endMs": 1320
+  },
+  {
+   "text": "hit",
+   "startMs": 1360,
+   "endMs": 1440
+  },
+  {
+   "text": "the",
+   "startMs": 1520,
+   "endMs": 1600
+  },
+  {
+   "text": "speed",
+   "startMs": 1680,
+   "endMs": 1920
+  },
+  {
+   "text": "bump",
+   "startMs": 2000,
+   "endMs": 2240
+  },
+  {
+   "text": "at",
+   "startMs": 2280,
+   "endMs": 2320
+  },
+  {
+   "text": "the",
+   "startMs": 2400,
+   "endMs": 2480
+  },
+  {
+   "text": "all-night",
+   "startMs": 2560,
+   "endMs": 2880
+  },
+  {
+   "text": "gas",
+   "startMs": 2960,
+   "endMs": 3200
+  },
+  {
+   "text": "station",
+   "startMs": 3280,
+   "endMs": 3600
+  },
+  {
+   "text": "by",
+   "startMs": 3680,
+   "endMs": 3760
+  },
+  {
+   "text": "the",
+   "startMs": 3800,
+   "endMs": 3840
+  },
+  {
+   "text": "overpass,",
+   "startMs": 3920,
+   "endMs": 4800
+  },
+  {
+   "text": "and",
+   "startMs": 4880,
+   "endMs": 4960
+  },
+  {
+   "text": "something",
+   "startMs": 5160,
+   "endMs": 5360
+  },
+  {
+   "text": "heavy",
+   "startMs": 5440,
+   "endMs": 5840
+  },
+  {
+   "text": "slammed",
+   "startMs": 5920,
+   "endMs": 6240
+  },
+  {
+   "text": "around",
+   "startMs": 6320,
+   "endMs": 6640
+  },
+  {
+   "text": "in",
+   "startMs": 6680,
+   "endMs": 6720
+  },
+  {
+   "text": "my",
+   "startMs": 6800,
+   "endMs": 6880
+  },
+  {
+   "text": "trunk.",
+   "startMs": 6960,
+   "endMs": 7840
+  },
+  {
+   "text": "I",
+   "startMs": 8000,
+   "endMs": 8040
+  },
+  {
+   "text": "pulled",
+   "startMs": 8080,
+   "endMs": 8240
+  },
+  {
+   "text": "up",
+   "startMs": 8320,
+   "endMs": 8400
+  },
+  {
+   "text": "under",
+   "startMs": 8480,
+   "endMs": 8640
+  },
+  {
+   "text": "the",
+   "startMs": 8680,
+   "endMs": 8720
+  },
+  {
+   "text": "lights",
+   "startMs": 8800,
+   "endMs": 9200
+  },
+  {
+   "text": "and",
+   "startMs": 9280,
+   "endMs": 9360
+  },
+  {
+   "text": "popped",
+   "startMs": 9440,
+   "endMs": 9600
+  },
+  {
+   "text": "it",
+   "startMs": 9680,
+   "endMs": 9760
+  },
+  {
+   "text": "open.",
+   "startMs": 9840,
+   "endMs": 10680
+  },
+  {
+   "text": "The",
+   "startMs": 10720,
+   "endMs": 10800
+  },
+  {
+   "text": "black",
+   "startMs": 10880,
+   "endMs": 11120
+  },
+  {
+   "text": "duffel",
+   "startMs": 11280,
+   "endMs": 11520
+  },
+  {
+   "text": "bag.",
+   "startMs": 11600,
+   "endMs": 12480
+  },
+  {
+   "text": "Harold's",
+   "startMs": 12560,
+   "endMs": 12960
+  },
+  {
+   "text": "bag.",
+   "startMs": 13440,
+   "endMs": 13960
+  },
+  {
+   "text": "It",
+   "startMs": 14000,
+   "endMs": 14040
+  },
+  {
+   "text": "was",
+   "startMs": 14080,
+   "endMs": 14240
+  },
+  {
+   "text": "heavy,",
+   "startMs": 14320,
+   "endMs": 15040
+  },
+  {
+   "text": "way",
+   "startMs": 15120,
+   "endMs": 15360
+  },
+  {
+   "text": "too",
+   "startMs": 15440,
+   "endMs": 15520
+  },
+  {
+   "text": "heavy",
+   "startMs": 15600,
+   "endMs": 15760
+  },
+  {
+   "text": "for",
+   "startMs": 15840,
+   "endMs": 15920
+  },
+  {
+   "text": "clothes,",
+   "startMs": 16000,
+   "endMs": 16760
+  },
+  {
+   "text": "and",
+   "startMs": 16800,
+   "endMs": 16880
+  },
+  {
+   "text": "the",
+   "startMs": 16920,
+   "endMs": 16960
+  },
+  {
+   "text": "lining",
+   "startMs": 17040,
+   "endMs": 17360
+  },
+  {
+   "text": "had",
+   "startMs": 17440,
+   "endMs": 17520
+  },
+  {
+   "text": "this",
+   "startMs": 17600,
+   "endMs": 17840
+  },
+  {
+   "text": "fresh,",
+   "startMs": 17920,
+   "endMs": 18360
+  },
+  {
+   "text": "crooked",
+   "startMs": 18400,
+   "endMs": 18800
+  },
+  {
+   "text": "stitching,",
+   "startMs": 18880,
+   "endMs": 19560
+  },
+  {
+   "text": "like",
+   "startMs": 19600,
+   "endMs": 19760
+  },
+  {
+   "text": "somebody",
+   "startMs": 19840,
+   "endMs": 20000
+  },
+  {
+   "text": "had",
+   "startMs": 20080,
+   "endMs": 20240
+  },
+  {
+   "text": "sewn",
+   "startMs": 20320,
+   "endMs": 20480
+  },
+  {
+   "text": "it",
+   "startMs": 20520,
+   "endMs": 20560
+  },
+  {
+   "text": "up",
+   "startMs": 20640,
+   "endMs": 20720
+  },
+  {
+   "text": "in",
+   "startMs": 20760,
+   "endMs": 20800
+  },
+  {
+   "text": "a",
+   "startMs": 20960,
+   "endMs": 20987
+  },
+  {
+   "text": "hurry",
+   "startMs": 21013,
+   "endMs": 21280
+  },
+  {
+   "text": "with",
+   "startMs": 21360,
+   "endMs": 21440
+  },
+  {
+   "text": "the",
+   "startMs": 21480,
+   "endMs": 21520
+  },
+  {
+   "text": "wrong",
+   "startMs": 21600,
+   "endMs": 21840
+  },
+  {
+   "text": "color",
+   "startMs": 22000,
+   "endMs": 22160
+  },
+  {
+   "text": "thread.",
+   "startMs": 22640,
+   "endMs": 23200
+  },
+  {
+   "text": "I",
+   "startMs": 23280,
+   "endMs": 23360
+  },
+  {
+   "text": "unzipped",
+   "startMs": 23440,
+   "endMs": 23680
+  },
+  {
+   "text": "it.",
+   "startMs": 23760,
+   "endMs": 24560
+  },
+  {
+   "text": "Money.",
+   "startMs": 25040,
+   "endMs": 25600
+  },
+  {
+   "text": "Stacks",
+   "startMs": 25760,
+   "endMs": 26120
+  },
+  {
+   "text": "of",
+   "startMs": 26160,
+   "endMs": 26320
+  },
+  {
+   "text": "hundred-dollar",
+   "startMs": 26360,
+   "endMs": 27040
+  },
+  {
+   "text": "bills,",
+   "startMs": 27080,
+   "endMs": 27800
+  },
+  {
+   "text": "every",
+   "startMs": 27840,
+   "endMs": 28160
+  },
+  {
+   "text": "stack",
+   "startMs": 28240,
+   "endMs": 28560
+  },
+  {
+   "text": "wrapped",
+   "startMs": 28680,
+   "endMs": 28800
+  },
+  {
+   "text": "in",
+   "startMs": 28880,
+   "endMs": 28960
+  },
+  {
+   "text": "a",
+   "startMs": 29040,
+   "endMs": 29080
+  },
+  {
+   "text": "paper",
+   "startMs": 29120,
+   "endMs": 29440
+  },
+  {
+   "text": "band",
+   "startMs": 29640,
+   "endMs": 29840
+  },
+  {
+   "text": "stamped",
+   "startMs": 29920,
+   "endMs": 30160
+  },
+  {
+   "text": "with",
+   "startMs": 30240,
+   "endMs": 30400
+  },
+  {
+   "text": "two",
+   "startMs": 30480,
+   "endMs": 30640
+  },
+  {
+   "text": "letters.",
+   "startMs": 31080,
+   "endMs": 31600
+  },
+  {
+   "text": "B",
+   "startMs": 31680,
+   "endMs": 32320
+  },
+  {
+   "text": "M.",
+   "startMs": 32560,
+   "endMs": 33280
+  },
+  {
+   "text": "I",
+   "startMs": 33360,
+   "endMs": 33400
+  },
+  {
+   "text": "counted",
+   "startMs": 33440,
+   "endMs": 33760
+  },
+  {
+   "text": "one",
+   "startMs": 33840,
+   "endMs": 34000
+  },
+  {
+   "text": "stack",
+   "startMs": 34160,
+   "endMs": 34400
+  },
+  {
+   "text": "with",
+   "startMs": 34520,
+   "endMs": 34640
+  },
+  {
+   "text": "shaking",
+   "startMs": 34680,
+   "endMs": 35040
+  },
+  {
+   "text": "hands,",
+   "startMs": 35120,
+   "endMs": 35800
+  },
+  {
+   "text": "did",
+   "startMs": 35840,
+   "endMs": 35920
+  },
+  {
+   "text": "the",
+   "startMs": 35960,
+   "endMs": 36000
+  },
+  {
+   "text": "math,",
+   "startMs": 36080,
+   "endMs": 36680
+  },
+  {
+   "text": "and",
+   "startMs": 36720,
+   "endMs": 36800
+  },
+  {
+   "text": "had",
+   "startMs": 36840,
+   "endMs": 36880
+  },
+  {
+   "text": "to",
+   "startMs": 36960,
+   "endMs": 37040
+  },
+  {
+   "text": "sit",
+   "startMs": 37120,
+   "endMs": 37280
+  },
+  {
+   "text": "down",
+   "startMs": 37400,
+   "endMs": 37520
+  },
+  {
+   "text": "on",
+   "startMs": 37560,
+   "endMs": 37600
+  },
+  {
+   "text": "the",
+   "startMs": 37680,
+   "endMs": 37760
+  },
+  {
+   "text": "curb.",
+   "startMs": 37920,
+   "endMs": 38760
+  },
+  {
+   "text": "Two",
+   "startMs": 38800,
+   "endMs": 39120
+  },
+  {
+   "text": "hundred",
+   "startMs": 39200,
+   "endMs": 39600
+  },
+  {
+   "text": "thousand",
+   "startMs": 39760,
+   "endMs": 40240
+  },
+  {
+   "text": "dollars.",
+   "startMs": 40360,
+   "endMs": 41320
+  },
+  {
+   "text": "Enough",
+   "startMs": 41360,
+   "endMs": 41600
+  },
+  {
+   "text": "for",
+   "startMs": 41640,
+   "endMs": 41680
+  },
+  {
+   "text": "the",
+   "startMs": 41720,
+   "endMs": 41760
+  },
+  {
+   "text": "hospital.",
+   "startMs": 41840,
+   "endMs": 42747
+  },
+  {
+   "text": "The",
+   "startMs": 42773,
+   "endMs": 42800
+  },
+  {
+   "text": "car.",
+   "startMs": 42880,
+   "endMs": 43640
+  },
+  {
+   "text": "Everything.",
+   "startMs": 43680,
+   "endMs": 44827
+  },
+  {
+   "text": "For",
+   "startMs": 44853,
+   "endMs": 44880
+  },
+  {
+   "text": "about",
+   "startMs": 44960,
+   "endMs": 45200
+  },
+  {
+   "text": "ten",
+   "startMs": 45280,
+   "endMs": 45520
+  },
+  {
+   "text": "seconds,",
+   "startMs": 45840,
+   "endMs": 46240
+  },
+  {
+   "text": "I",
+   "startMs": 46320,
+   "endMs": 46400
+  },
+  {
+   "text": "just",
+   "startMs": 46480,
+   "endMs": 46560
+  },
+  {
+   "text": "sat",
+   "startMs": 46680,
+   "endMs": 46800
+  },
+  {
+   "text": "there",
+   "startMs": 46880,
+   "endMs": 47200
+  },
+  {
+   "text": "and",
+   "startMs": 47280,
+   "endMs": 47360
+  },
+  {
+   "text": "let",
+   "startMs": 47440,
+   "endMs": 47520
+  },
+  {
+   "text": "myself",
+   "startMs": 47600,
+   "endMs": 47920
+  },
+  {
+   "text": "imagine",
+   "startMs": 48040,
+   "endMs": 48320
+  },
+  {
+   "text": "it.",
+   "startMs": 48400,
+   "endMs": 49120
+  }
+ ]
+}

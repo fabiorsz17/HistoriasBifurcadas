@@ -1,0 +1,122 @@
+{
+ "B01": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "19808dafae1b355277731d9174abd9a26fac3e611336f80e085a6bcb264cad96"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "73 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "19808dafae1b355277731d9174abd9a26fac3e611336f80e085a6bcb264cad96"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.77 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "19808dafae1b355277731d9174abd9a26fac3e611336f80e085a6bcb264cad96"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 4: recap fiel ao V2B, com o Harold preso, a Laura e a dívida; 'Harold stayed in jail' e 'Laura didn't look at me' agora fazem sentido; 73 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:11:35+00:00",
+   "texto_sha": "19808dafae1b355277731d9174abd9a26fac3e611336f80e085a6bcb264cad96"
+  }
+ },
+ "B02": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "4b6b67fe91f120446246028a277ac7fcb443b608abc5d14fd1d4e4998f88fb62"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "51 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "4b6b67fe91f120446246028a277ac7fcb443b608abc5d14fd1d4e4998f88fb62"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.81 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "4b6b67fe91f120446246028a277ac7fcb443b608abc5d14fd1d4e4998f88fb62"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 3: 'Same thing he'd said at the airport, with his hand on my shoulder' é fiel ao V1 B03 (grabbed my shoulder, I'm sorry) e reforça a P1; P4 intacta; 51 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:09:49+00:00",
+   "texto_sha": "4b6b67fe91f120446246028a277ac7fcb443b608abc5d14fd1d4e4998f88fb62"
+  }
+ },
+ "B03": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "5c82603cf089cc3c12d13ad791b70d5564620d5b8ce5c75a646a9d8388e1720f"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "49 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "5c82603cf089cc3c12d13ad791b70d5564620d5b8ce5c75a646a9d8388e1720f"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.83 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "5c82603cf089cc3c12d13ad791b70d5564620d5b8ce5c75a646a9d8388e1720f"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Fim aberto da bíblia, sem sermão; 'Not the cash. This.' fecha o pedaço 4",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:19+00:00",
+   "texto_sha": "5c82603cf089cc3c12d13ad791b70d5564620d5b8ce5c75a646a9d8388e1720f"
+  }
+ },
+ "CTA": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "137e753426c56961a46d2045fe745fe1fc010b598508a70330c6d3e03baf92fa"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "16 s estimados (faixa 8–30 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "137e753426c56961a46d2045fe745fe1fc010b598508a70330c6d3e03baf92fa"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.81 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:55+00:00",
+   "texto_sha": "137e753426c56961a46d2045fe745fe1fc010b598508a70330c6d3e03baf92fa"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 2: 'the thumb drive' tira a ambiguidade; contador e mapa ok",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:03:28+00:00",
+   "texto_sha": "137e753426c56961a46d2045fe745fe1fc010b598508a70330c6d3e03baf92fa"
+  }
+ }
+}

@@ -2,37 +2,32 @@
  "blocos": [
   {
    "id": "B01",
-   "narracao": "",
-   "visual": "Gancho: two hundred thousand dollars no porta-malas e o telefone tocando; volta no tempo"
+   "narracao": "There was two hundred thousand dollars in my trunk. Cash, in a black duffel bag that wasn't mine. I was sitting on a gas station curb at midnight, just staring at it, and my phone wouldn't stop ringing. I'm Kai. I'm twenty-seven, I drive for a rideshare app, and until that night, the weirdest thing anybody ever left in my car was a live chicken. Long story. Okay, quick thing before I rewind. This story splits. At the end of this video, you decide what I do, and every choice leads somewhere different. There are four endings. Only one of them tells you the whole truth. So keep your eyes open. I'm serious. The little stuff matters.",
+   "visual": "Gancho e como funciona (FMT-005): Kai no meio-fio do posto à meia-noite, a bolsa aberta; corta para o mapa da árvore"
   },
   {
    "id": "B02",
-   "narracao": "",
-   "visual": "Como funciona (FMT-005): fala fixa do canal + mapa da árvore"
+   "narracao": "Three hours earlier, I was parked outside a closed taco place, eating a gas station sandwich and staring at a text. \"Your weekly rental payment is three weeks past due. Pay by Monday or the vehicle will be recovered.\" Recovered. Like it was lost. The car wasn't even mine. I rented it through a program for rideshare drivers, three hundred and fifty dollars a week, because it was the only way I could drive at all. And on my fridge back home, there was another bill. Eighteen thousand dollars, from the night my appendix decided to quit on me. No insurance. I'd been paying it off fifty bucks at a time. So that Friday, I had one plan. Drive until Monday. Every ride, every tip. Then the app pinged. A pickup downtown, going to the airport. Long ride. Good money. I took it.",
+   "visual": "A vida do Kai: sanduíche de posto, mensagem do aluguel semanal, a conta do hospital na geladeira, a corrida para o aeroporto"
   },
   {
    "id": "B03",
-   "narracao": "",
-   "visual": "A vida do Kai: aviso do aluguel semanal, conta do hospital na geladeira, sexta fraca"
+   "narracao": "He was waiting on the curb outside an office building. Older guy, maybe sixty, in a wrinkled suit. Before I could even get out to help, he threw a black duffel bag in my trunk and climbed in the back with a little carry-on on his lap. His name on the app was Harold. The whole ride, he kept turning around to look out the back window. Halfway there, he asked me to skip the highway and take the side streets. Then he said, kind of to himself, \"I canceled two cars before yours.\" At a red light, he leaned forward and reached under the seat in front of him for a good ten seconds. \"Dropped my pen,\" he said. Right before the airport, he asked for my number, in case he left something in the car. People leave stuff all the time. Nobody asks for your number first. At departures, he grabbed my shoulder. \"Thank you, Kai,\" he said. \"I'm sorry.\" A traffic cop was already waving me off the curb, so I just drove.",
+   "visual": "A corrida: Harold de terno amassado, põe a bolsa no porta-malas sozinho, olha para trás, pede ruas laterais, cancelou dois carros, mexe embaixo do banco (P4), pede o número do Kai, 'Thank you, Kai. I'm sorry.' (P1)"
   },
   {
    "id": "B04",
-   "narracao": "",
-   "visual": "A corrida: Harold nervoso, caminho estranho, dois carros cancelados, mexe embaixo do banco ('Dropped my pen'), 'Thank you, Kai. I'm sorry.'"
+   "narracao": "I was halfway home when I hit the speed bump at the all-night gas station by the overpass, and something heavy slammed around in my trunk. I pulled up under the lights and popped it open. The black duffel bag. Harold's bag. It was heavy, way too heavy for clothes, and the lining had this fresh, crooked stitching, like somebody had sewn it up in a hurry with the wrong color thread. I unzipped it. Money. Stacks of hundred-dollar bills, every stack wrapped in a paper band stamped with two letters. B M. I counted one stack with shaking hands, did the math, and had to sit down on the curb. Two hundred thousand dollars. Enough for the hospital. The car. Everything. For about ten seconds, I just sat there and let myself imagine it.",
+   "visual": "O baque: lombada no posto 24 horas, Kai abre o porta-malas sob a luz, a bolsa pesada, costura torta (P2), maços com cinta carimbada BM (P3), Kai senta no meio-fio"
   },
   {
    "id": "B05",
-   "narracao": "",
-   "visual": "O baque: posto 24 horas, bolsa pesada, costura torta, cintas carimbadas BM"
-  },
-  {
-   "id": "B06",
-   "narracao": "",
-   "visual": "O telefone: Laura pede para não ir à polícia hoje; carro cinza com o farol apontado; aviso 'Your choice is coming'"
+   "narracao": "Then my phone rang. Unknown number. I almost let it go to voicemail. \"Is this Kai? The driver?\" A woman, totally out of breath. \"Do you have my dad's bag? Harold Pruitt. Please, I need you to listen to me.\" And I said yes. I still don't know why. \"Don't take it to the police,\" she said. \"Not tonight. If that bag ends up at the police station tonight, my dad goes to prison. I can explain everything, I swear. Just meet me. Please.\" Then she hung up, and a second later she texted me the address of some diner. So there I was, on a curb, with a bag full of somebody else's money, a stranger who'd just been crying on the phone, and a rental payment I couldn't make. You'd think the right thing would be obvious. It wasn't. And whatever I was going to do, I had to do it now.",
+   "visual": "O telefone: número desconhecido, Laura sem fôlego, o pedido (P5), a pressa; selo 'Your choice is coming'"
   },
   {
    "id": "ESCOLHA",
-   "narracao": "",
+   "narracao": "So yeah. That was my night so far. A bag of cash, a crying stranger, and a diner address on my phone. If you think I should meet the woman who called, tap the video on the left. If I should take the bag to the police, tap the one on the right. And you can always come back and try the other path.",
    "visual": "TelaEscolha (20 s)"
   }
  ]

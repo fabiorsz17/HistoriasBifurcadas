@@ -1,0 +1,719 @@
+{
+ "words": [
+  {
+   "text": "Three",
+   "startMs": 0,
+   "endMs": 240
+  },
+  {
+   "text": "hours",
+   "startMs": 320,
+   "endMs": 640
+  },
+  {
+   "text": "earlier,",
+   "startMs": 720,
+   "endMs": 1320
+  },
+  {
+   "text": "I",
+   "startMs": 1360,
+   "endMs": 1440
+  },
+  {
+   "text": "was",
+   "startMs": 1520,
+   "endMs": 1600
+  },
+  {
+   "text": "parked",
+   "startMs": 1680,
+   "endMs": 1840
+  },
+  {
+   "text": "outside",
+   "startMs": 1920,
+   "endMs": 2240
+  },
+  {
+   "text": "a",
+   "startMs": 2280,
+   "endMs": 2320
+  },
+  {
+   "text": "closed",
+   "startMs": 2400,
+   "endMs": 2800
+  },
+  {
+   "text": "taco",
+   "startMs": 2840,
+   "endMs": 3120
+  },
+  {
+   "text": "place,",
+   "startMs": 3200,
+   "endMs": 3880
+  },
+  {
+   "text": "eating",
+   "startMs": 3920,
+   "endMs": 4080
+  },
+  {
+   "text": "a",
+   "startMs": 4120,
+   "endMs": 4160
+  },
+  {
+   "text": "gas",
+   "startMs": 4240,
+   "endMs": 4400
+  },
+  {
+   "text": "station",
+   "startMs": 4480,
+   "endMs": 4880
+  },
+  {
+   "text": "sandwich",
+   "startMs": 4960,
+   "endMs": 5520
+  },
+  {
+   "text": "and",
+   "startMs": 5600,
+   "endMs": 5680
+  },
+  {
+   "text": "staring",
+   "startMs": 5760,
+   "endMs": 6080
+  },
+  {
+   "text": "at",
+   "startMs": 6120,
+   "endMs": 6160
+  },
+  {
+   "text": "a",
+   "startMs": 6240,
+   "endMs": 6280
+  },
+  {
+   "text": "text.",
+   "startMs": 6320,
+   "endMs": 7520
+  },
+  {
+   "text": "\"Your",
+   "startMs": 7573,
+   "endMs": 7680
+  },
+  {
+   "text": "weekly",
+   "startMs": 7840,
+   "endMs": 8000
+  },
+  {
+   "text": "rental",
+   "startMs": 8080,
+   "endMs": 8320
+  },
+  {
+   "text": "payment",
+   "startMs": 8400,
+   "endMs": 8720
+  },
+  {
+   "text": "is",
+   "startMs": 8800,
+   "endMs": 8960
+  },
+  {
+   "text": "three",
+   "startMs": 9040,
+   "endMs": 9280
+  },
+  {
+   "text": "weeks",
+   "startMs": 9440,
+   "endMs": 9600
+  },
+  {
+   "text": "past",
+   "startMs": 9760,
+   "endMs": 9920
+  },
+  {
+   "text": "due.",
+   "startMs": 10000,
+   "endMs": 10680
+  },
+  {
+   "text": "Pay",
+   "startMs": 10720,
+   "endMs": 10880
+  },
+  {
+   "text": "by",
+   "startMs": 10960,
+   "endMs": 11040
+  },
+  {
+   "text": "Monday",
+   "startMs": 11360,
+   "endMs": 11680
+  },
+  {
+   "text": "or",
+   "startMs": 11720,
+   "endMs": 11760
+  },
+  {
+   "text": "the",
+   "startMs": 11840,
+   "endMs": 11920
+  },
+  {
+   "text": "vehicle",
+   "startMs": 12120,
+   "endMs": 12320
+  },
+  {
+   "text": "will",
+   "startMs": 12400,
+   "endMs": 12480
+  },
+  {
+   "text": "be",
+   "startMs": 12560,
+   "endMs": 12640
+  },
+  {
+   "text": "recovered.\"",
+   "startMs": 12720,
+   "endMs": 13880
+  },
+  {
+   "text": "Recovered.",
+   "startMs": 13920,
+   "endMs": 15080
+  },
+  {
+   "text": "Like",
+   "startMs": 15120,
+   "endMs": 15200
+  },
+  {
+   "text": "it",
+   "startMs": 15280,
+   "endMs": 15320
+  },
+  {
+   "text": "was",
+   "startMs": 15360,
+   "endMs": 15520
+  },
+  {
+   "text": "lost.",
+   "startMs": 15600,
+   "endMs": 16520
+  },
+  {
+   "text": "The",
+   "startMs": 16560,
+   "endMs": 16640
+  },
+  {
+   "text": "car",
+   "startMs": 16760,
+   "endMs": 16880
+  },
+  {
+   "text": "wasn't",
+   "startMs": 16960,
+   "endMs": 17093
+  },
+  {
+   "text": "even",
+   "startMs": 17120,
+   "endMs": 17360
+  },
+  {
+   "text": "mine.",
+   "startMs": 17800,
+   "endMs": 18320
+  },
+  {
+   "text": "I",
+   "startMs": 18400,
+   "endMs": 18440
+  },
+  {
+   "text": "rented",
+   "startMs": 18480,
+   "endMs": 18720
+  },
+  {
+   "text": "it",
+   "startMs": 18760,
+   "endMs": 18800
+  },
+  {
+   "text": "through",
+   "startMs": 18880,
+   "endMs": 18960
+  },
+  {
+   "text": "a",
+   "startMs": 19120,
+   "endMs": 19280
+  },
+  {
+   "text": "program",
+   "startMs": 19440,
+   "endMs": 19600
+  },
+  {
+   "text": "for",
+   "startMs": 19680,
+   "endMs": 19760
+  },
+  {
+   "text": "rideshare",
+   "startMs": 19880,
+   "endMs": 20240
+  },
+  {
+   "text": "drivers,",
+   "startMs": 20320,
+   "endMs": 21160
+  },
+  {
+   "text": "three",
+   "startMs": 21200,
+   "endMs": 21360
+  },
+  {
+   "text": "hundred",
+   "startMs": 21440,
+   "endMs": 21600
+  },
+  {
+   "text": "and",
+   "startMs": 21680,
+   "endMs": 21760
+  },
+  {
+   "text": "fifty",
+   "startMs": 21840,
+   "endMs": 22000
+  },
+  {
+   "text": "dollars",
+   "startMs": 22080,
+   "endMs": 22320
+  },
+  {
+   "text": "a",
+   "startMs": 22400,
+   "endMs": 22480
+  },
+  {
+   "text": "week,",
+   "startMs": 22720,
+   "endMs": 23040
+  },
+  {
+   "text": "because",
+   "startMs": 23120,
+   "endMs": 23200
+  },
+  {
+   "text": "it",
+   "startMs": 23240,
+   "endMs": 23280
+  },
+  {
+   "text": "was",
+   "startMs": 23360,
+   "endMs": 23440
+  },
+  {
+   "text": "the",
+   "startMs": 23520,
+   "endMs": 23600
+  },
+  {
+   "text": "only",
+   "startMs": 23680,
+   "endMs": 24000
+  },
+  {
+   "text": "way",
+   "startMs": 24080,
+   "endMs": 24160
+  },
+  {
+   "text": "I",
+   "startMs": 24320,
+   "endMs": 24373
+  },
+  {
+   "text": "could",
+   "startMs": 24427,
+   "endMs": 24480
+  },
+  {
+   "text": "drive",
+   "startMs": 24600,
+   "endMs": 24720
+  },
+  {
+   "text": "at",
+   "startMs": 24800,
+   "endMs": 24880
+  },
+  {
+   "text": "all.",
+   "startMs": 24960,
+   "endMs": 25947
+  },
+  {
+   "text": "And",
+   "startMs": 25973,
+   "endMs": 26000
+  },
+  {
+   "text": "on",
+   "startMs": 26080,
+   "endMs": 26160
+  },
+  {
+   "text": "my",
+   "startMs": 26240,
+   "endMs": 26320
+  },
+  {
+   "text": "fridge",
+   "startMs": 26400,
+   "endMs": 26640
+  },
+  {
+   "text": "back",
+   "startMs": 26720,
+   "endMs": 26880
+  },
+  {
+   "text": "home,",
+   "startMs": 26960,
+   "endMs": 27480
+  },
+  {
+   "text": "there",
+   "startMs": 27520,
+   "endMs": 27600
+  },
+  {
+   "text": "was",
+   "startMs": 27640,
+   "endMs": 27680
+  },
+  {
+   "text": "another",
+   "startMs": 27760,
+   "endMs": 28160
+  },
+  {
+   "text": "bill.",
+   "startMs": 28520,
+   "endMs": 28920
+  },
+  {
+   "text": "Eighteen",
+   "startMs": 28960,
+   "endMs": 29520
+  },
+  {
+   "text": "thousand",
+   "startMs": 29760,
+   "endMs": 30160
+  },
+  {
+   "text": "dollars,",
+   "startMs": 30240,
+   "endMs": 31040
+  },
+  {
+   "text": "from",
+   "startMs": 31120,
+   "endMs": 31200
+  },
+  {
+   "text": "the",
+   "startMs": 31240,
+   "endMs": 31280
+  },
+  {
+   "text": "night",
+   "startMs": 31360,
+   "endMs": 31440
+  },
+  {
+   "text": "my",
+   "startMs": 31520,
+   "endMs": 31600
+  },
+  {
+   "text": "appendix",
+   "startMs": 31800,
+   "endMs": 32160
+  },
+  {
+   "text": "decided",
+   "startMs": 32280,
+   "endMs": 32560
+  },
+  {
+   "text": "to",
+   "startMs": 32640,
+   "endMs": 32720
+  },
+  {
+   "text": "quit",
+   "startMs": 32800,
+   "endMs": 32880
+  },
+  {
+   "text": "on",
+   "startMs": 32960,
+   "endMs": 33120
+  },
+  {
+   "text": "me.",
+   "startMs": 33440,
+   "endMs": 33840
+  },
+  {
+   "text": "No",
+   "startMs": 33920,
+   "endMs": 34000
+  },
+  {
+   "text": "insurance.",
+   "startMs": 34520,
+   "endMs": 35120
+  },
+  {
+   "text": "I'd",
+   "startMs": 35147,
+   "endMs": 35200
+  },
+  {
+   "text": "been",
+   "startMs": 35280,
+   "endMs": 35360
+  },
+  {
+   "text": "paying",
+   "startMs": 35440,
+   "endMs": 35600
+  },
+  {
+   "text": "it",
+   "startMs": 35640,
+   "endMs": 35680
+  },
+  {
+   "text": "off",
+   "startMs": 35760,
+   "endMs": 36000
+  },
+  {
+   "text": "fifty",
+   "startMs": 36040,
+   "endMs": 36240
+  },
+  {
+   "text": "bucks",
+   "startMs": 36320,
+   "endMs": 36560
+  },
+  {
+   "text": "at",
+   "startMs": 36600,
+   "endMs": 36640
+  },
+  {
+   "text": "a",
+   "startMs": 36680,
+   "endMs": 36720
+  },
+  {
+   "text": "time.",
+   "startMs": 36800,
+   "endMs": 37920
+  },
+  {
+   "text": "So",
+   "startMs": 38000,
+   "endMs": 38080
+  },
+  {
+   "text": "that",
+   "startMs": 38200,
+   "endMs": 38320
+  },
+  {
+   "text": "Friday,",
+   "startMs": 38640,
+   "endMs": 39040
+  },
+  {
+   "text": "I",
+   "startMs": 39120,
+   "endMs": 39200
+  },
+  {
+   "text": "had",
+   "startMs": 39280,
+   "endMs": 39360
+  },
+  {
+   "text": "one",
+   "startMs": 39440,
+   "endMs": 39600
+  },
+  {
+   "text": "plan.",
+   "startMs": 39680,
+   "endMs": 40480
+  },
+  {
+   "text": "Drive",
+   "startMs": 40560,
+   "endMs": 40960
+  },
+  {
+   "text": "until",
+   "startMs": 41160,
+   "endMs": 41360
+  },
+  {
+   "text": "Monday.",
+   "startMs": 41720,
+   "endMs": 42160
+  },
+  {
+   "text": "Every",
+   "startMs": 42240,
+   "endMs": 42480
+  },
+  {
+   "text": "ride,",
+   "startMs": 42560,
+   "endMs": 43160
+  },
+  {
+   "text": "every",
+   "startMs": 43200,
+   "endMs": 43440
+  },
+  {
+   "text": "tip.",
+   "startMs": 43520,
+   "endMs": 44480
+  },
+  {
+   "text": "Then",
+   "startMs": 44560,
+   "endMs": 44880
+  },
+  {
+   "text": "the",
+   "startMs": 44960,
+   "endMs": 45040
+  },
+  {
+   "text": "app",
+   "startMs": 45120,
+   "endMs": 45360
+  },
+  {
+   "text": "pinged.",
+   "startMs": 45480,
+   "endMs": 46200
+  },
+  {
+   "text": "A",
+   "startMs": 46240,
+   "endMs": 46320
+  },
+  {
+   "text": "pickup",
+   "startMs": 46400,
+   "endMs": 46640
+  },
+  {
+   "text": "downtown,",
+   "startMs": 46720,
+   "endMs": 47573
+  },
+  {
+   "text": "going",
+   "startMs": 47627,
+   "endMs": 47680
+  },
+  {
+   "text": "to",
+   "startMs": 47760,
+   "endMs": 47840
+  },
+  {
+   "text": "the",
+   "startMs": 47880,
+   "endMs": 47920
+  },
+  {
+   "text": "airport.",
+   "startMs": 48000,
+   "endMs": 48840
+  },
+  {
+   "text": "Long",
+   "startMs": 48880,
+   "endMs": 49120
+  },
+  {
+   "text": "ride.",
+   "startMs": 49200,
+   "endMs": 49893
+  },
+  {
+   "text": "Good",
+   "startMs": 49947,
+   "endMs": 50000
+  },
+  {
+   "text": "money.",
+   "startMs": 50080,
+   "endMs": 50880
+  },
+  {
+   "text": "I",
+   "startMs": 50960,
+   "endMs": 51000
+  },
+  {
+   "text": "took",
+   "startMs": 51040,
+   "endMs": 51200
+  },
+  {
+   "text": "it.",
+   "startMs": 51680,
+   "endMs": 52240
+  }
+ ]
+}

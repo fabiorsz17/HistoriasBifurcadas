@@ -35,14 +35,15 @@ O usuário aprova cada etapa (bíblia, roteiro, voz, animação, publicação). 
   - `jev.py`: réguas de ficção — `REGUA_HISTORIA` (público, anunciante, clareza, tensão), `REGUA_ESCOLHA` (equilíbrio, óbvia, suspense), `REGUA_GANCHO` (curiosidade, situa). **Ainda não calibradas.**
   - `verificar_arvore.py`: estrutura, continuidade por caminho, pistas, segredo por final e escolhas.
   - `roteador.py`: hook de modelo e esforço.
-  - **Chave pendente:** o usuário roda `INTEGRACOES/JEV/Configurar-Chave-JEV.ps1`. Sem a chave, o roteador cai na heurística local e os portões do JEV falham.
-- **ElevenLabs** (`INTEGRACOES/ELEVENLABS/`): `narracao_unica.py` é o único caminho (trava por bloco, teto por vídeo, portões). Cada nó da árvore conta como um episódio (`<história>/<nó>`). Teste: `teste_trava.py` (passou em 01/11/2026). **Pendentes:** a chave (`Configurar-Chave-ElevenLabs.ps1 -Purpose TTS`) e a escolha da voz (`VOZ` vazia recusa toda geração real).
+  - **Chave cadastrada** (01/11/2026, a mesma do Zero a 100, cifrada por DPAPI). Teste `jev.py teste`: ok (jev-1.14.0). As perguntas novas ainda precisam de calibração (texto bom × texto ruim de propósito).
+- **ElevenLabs** (`INTEGRACOES/ELEVENLABS/`): `narracao_unica.py` é o único caminho (trava por bloco, teto por vídeo, portões). Cada nó da árvore conta como um episódio (`<história>/<nó>`). Teste: `teste_trava.py` (passou em 01/11/2026). **Duas chaves próprias deste canal** (01/11/2026, na mesma conta do Zero a 100): a de leitura (`elevenlabs-api-key`, User e Voices read) consulta saldo e vozes, testada ok (45.787 créditos); a de voz (`elevenlabs-tts-key`) só gera áudio e ainda não foi testada, o que acontece na primeira geração autorizada. `narracao_unica.py vozes` lista saldo e vozes sem gastar. `legendas_srt.py <nó>` gera a legenda oficial do YouTube (`legenda-en.srt`) a partir do alinhamento da ElevenLabs. Ela fica em sequência até a montagem existir; depois, usar `--inicios` com os tempos reais de cada bloco. **Pendente:** a escolha da voz (feito: voz "Kai_", `x4IlOQV48pkmFjKlH6gP`, 01/11/2026).
 - **Canva Pro:** conector por conta, para cenários e objetos.
 
 ## Estado atual (01/11/2026)
 - Base copiada e testada: motor de câmera (stills conferidos), trava da voz (teste ok), verificador de estrutura (pegou os erros plantados).
 - **Nicho:** dilemas de vida (NIC-001).
-- **Pendente do usuário:** nome do canal, chaves do JEV e da ElevenLabs, escolha da voz.
+- **Pendente do usuário:** nome do canal, chave da ElevenLabs, escolha da voz.
 - **H01 "The Bag in the Trunk"** (`HISTORIAS/H01_A_MALA/`): bíblia v2 adaptada (LANG-001, CEN-001, CUL-001, RES-001), aguardando aprovação; estrutura ok.
 - **Pendente com aprovação do usuário:** incluir o portão `revisor_ingles` na trava da voz (`narracao_unica.py`, edição protegida).
-- **Próximo:** aprovação da bíblia → roteiro dos 7 vídeos (roteirista → revisor-texto → JEV) → piloto de 30 s com a narração.
+- **Lembrete ao usuário (pedido dele, 01/11/2026):** ao começar a escolha da H02, avisar que é hora de instalar a chave da YouTube Data API (de preferência uma chave nova, só deste canal) e montar o script de pesquisa enxuto: vídeos fora da curva → comentários → JEV → 3 a 5 temas com evidência, sem guardar dado bruto por mais de 30 dias.
+- **Estado em 01/11/2026:** roteiros e narração da H01 prontos (31 blocos, 22,8 min); voz "Kai_"; legendas .srt geradas. **Animação do V1 em andamento:** B01 montado, render de revisão feito ou em curso; ver o topo do CHECKPOINTS.md para retomar.

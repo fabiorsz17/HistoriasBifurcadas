@@ -1,0 +1,182 @@
+{
+ "B01": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:03+00:00",
+   "texto_sha": "2d55d7f55aeed9a6febe32d0fadff304a94a4d27192ed52a0eb13f9aca4081de"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "44 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:03+00:00",
+   "texto_sha": "2d55d7f55aeed9a6febe32d0fadff304a94a4d27192ed52a0eb13f9aca4081de"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.76 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:03+00:00",
+   "texto_sha": "2d55d7f55aeed9a6febe32d0fadff304a94a4d27192ed52a0eb13f9aca4081de"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Gancho e fórmula FMT-005 literais; situa Kai; 44 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:57:50+00:00",
+   "texto_sha": "2d55d7f55aeed9a6febe32d0fadff304a94a4d27192ed52a0eb13f9aca4081de"
+  }
+ },
+ "B02": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "bd689f3020c5c9500137927f640ae90feba40cdc40fc2cdf0a7a191c93ca286e"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "54 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "bd689f3020c5c9500137927f640ae90feba40cdc40fc2cdf0a7a191c93ca286e"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.83 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "bd689f3020c5c9500137927f640ae90feba40cdc40fc2cdf0a7a191c93ca286e"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Valores ok (350 por semana, três semanas, 18 mil, prazo segunda); Three hours earlier compatível com pickup ten-forty",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:11+00:00",
+   "texto_sha": "bd689f3020c5c9500137927f640ae90feba40cdc40fc2cdf0a7a191c93ca286e"
+  }
+ },
+ "B03": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "89be671942c6e980cac967cb70dc2577b8426effa738271931dd920437b04df9"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "63 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "89be671942c6e980cac967cb70dc2577b8426effa738271931dd920437b04df9"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.81 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "89be671942c6e980cac967cb70dc2577b8426effa738271931dd920437b04df9"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "P1 e P4 plantadas; pedido do número planta como a Laura liga; seat in front of him casa com o FB2 (animar Harold atrás do banco do passageiro)",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:12+00:00",
+   "texto_sha": "89be671942c6e980cac967cb70dc2577b8426effa738271931dd920437b04df9"
+  }
+ },
+ "B04": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "6b58a28fc6391a5c748eaa58f2ca5685902c66f8990bafd3963ff765551738fe"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "51 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "6b58a28fc6391a5c748eaa58f2ca5685902c66f8990bafd3963ff765551738fe"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.84 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "6b58a28fc6391a5c748eaa58f2ca5685902c66f8990bafd3963ff765551738fe"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "P2 e P3 plantadas; black duffel consistente; obs. baixa: lombada no posto sem dizer por que entrou",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:12+00:00",
+   "texto_sha": "6b58a28fc6391a5c748eaa58f2ca5685902c66f8990bafd3963ff765551738fe"
+  }
+ },
+ "B05": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "a79e6189a2e7726519d6da65027b90324580a61ba9c853fd221383796d3ac83a"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "54 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "a79e6189a2e7726519d6da65027b90324580a61ba9c853fd221383796d3ac83a"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.82 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:04+00:00",
+   "texto_sha": "a79e6189a2e7726519d6da65027b90324580a61ba9c853fd221383796d3ac83a"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "P5 literal; para no auge; obs. baixa: o gancho diz que o telefone não parava de tocar, aqui toca uma vez",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:12+00:00",
+   "texto_sha": "a79e6189a2e7726519d6da65027b90324580a61ba9c853fd221383796d3ac83a"
+  }
+ },
+ "ESCOLHA": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:05+00:00",
+   "texto_sha": "46a2abfa92def1a252d5362ce56949c3297bf82f66df929acf58521c36c0ae7e"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "20 s estimados (faixa 8–30 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:05+00:00",
+   "texto_sha": "46a2abfa92def1a252d5362ce56949c3297bf82f66df929acf58521c36c0ae7e"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.76 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T21:53:05+00:00",
+   "texto_sha": "46a2abfa92def1a252d5362ce56949c3297bf82f66df929acf58521c36c0ae7e"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Fórmula FMT-005, opções iguais ao arvore.json, escolha equilibrada",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:12+00:00",
+   "texto_sha": "46a2abfa92def1a252d5362ce56949c3297bf82f66df929acf58521c36c0ae7e"
+  }
+ }
+}

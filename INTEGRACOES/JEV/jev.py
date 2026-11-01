@@ -193,7 +193,7 @@ def _resumo(relatorio: dict):
 
 
 def _teste():
-    narracao = "Era quase meia-noite quando o Davi abriu o porta-malas do carro alugado e viu a mala. Não era dele. E estava pesada."
+    narracao = "It was almost midnight when I popped the trunk at the gas station and saw the bag. It wasn't mine. And it was heavy."
     resultado = avaliar(narracao, REGUA_HISTORIA)
     print(json.dumps(resultado, ensure_ascii=False, indent=2))
 

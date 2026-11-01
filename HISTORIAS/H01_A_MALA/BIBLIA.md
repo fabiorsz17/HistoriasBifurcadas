@@ -31,7 +31,7 @@ Uma cidade grande e sem nome (*the city*), com aeroporto, posto de gasolina 24 h
 **Elenco e respeito (RES-001):** nenhum personagem é definido por raça, religião, orientação sexual ou origem. O antagonista é ruim pelo que **faz** (fraude), nunca por quem é. O desenho do elenco é variado, e todos recebem o mesmo cuidado.
 
 ## O segredo (só quem vê os 4 finais entende tudo)
-Harold descobriu que o patrão mantinha um **caixa paralelo (*off-the-books cash*)** para esconder dinheiro. Ele guardou a prova num **pendrive (*thumb drive*)**, costurado no forro de uma bolsa com duzentos mil desse caixa, que servia de isca. No aeroporto, percebeu que o Vince o seguia. Então **escolheu de propósito** o carro do Kai, o único sem o adesivo do aplicativo no para-brisa, e deixou a bolsa nele. Brandt, avisado, registrou uma **queixa falsa de furto** para prender o Harold antes que ele chegasse aos investigadores federais. E Harold ainda escondeu uma **segunda cópia** da prova no carro: o Kai sempre foi o plano B dele.
+Harold descobriu que o patrão mantinha um **caixa paralelo (*off-the-books cash*)** para esconder dinheiro. Ele guardou a prova num **pendrive (*thumb drive*)**, costurado no forro de uma bolsa com duzentos mil desse caixa, que servia de isca. Sabia que o Vince vigiava cada carro de aplicativo na saída do escritório. Então **escolheu de propósito** o carro do Kai, o único sem o adesivo do aplicativo no para-brisa, e deixou a bolsa nele. Brandt, avisado, registrou uma **queixa falsa de furto** para prender o Harold antes que ele chegasse aos investigadores federais. E Harold ainda escondeu uma **segunda cópia** da prova no carro: o Kai sempre foi o plano B dele.
 
 | Pedaço | Revelado em |
 |---|---|
@@ -43,7 +43,8 @@ Harold descobriu que o patrão mantinha um **caixa paralelo (*off-the-books cash
 ## Pistas plantadas
 | Pista | Onde aparece | Onde volta |
 |---|---|---|
-| P1 · Harold diz *"Thank you, Kai. I'm sorry."* e conta que cancelou dois carros antes do dele | V1 | FA2, FB2 |
+| P1 · Harold diz *"Thank you, Kai. I'm sorry."* sem motivo aparente | V1 | FA2, FB2 |
+| P7 · Harold conta que cancelou dois carros antes do dele | V1 | FA2 |
 | P2 · A bolsa é pesada demais, e o forro tem uma costura nova, torta | V1 | FA1 |
 | P3 · As cintas das notas têm um carimbo "BM" | V1 | FB1 |
 | P4 · Harold se abaixa e mexe embaixo do banco (*"Dropped my pen."*) | V1 | FB2 |
@@ -68,12 +69,12 @@ V1 · The Bag
 3. **A vida do Kai:** o aviso do plano de aluguel (*"Pay by Monday or the vehicle will be recovered"*), a conta do hospital na geladeira, uma sexta-feira fraca de corridas.
 4. **A corrida:** Harold entra nervoso, olha para trás o tempo todo, pede um caminho estranho e conta que cancelou dois carros antes. Abaixa-se e mexe embaixo do banco: *"Dropped my pen."* (P4). No aeroporto: *"Thank you, Kai. I'm sorry."* (P1)
 5. **O baque:** na lombada, algo bate no porta-malas. Kai para num posto 24 horas: uma bolsa pesada, a costura torta (P2). Dentro, maços de notas com cintas carimbadas "BM" (P3).
-6. **O telefone:** número desconhecido. Laura pergunta se ele está com a bolsa do pai dela e implora que ele não vá à polícia hoje (P5). Do outro lado do posto, um carro cinza para e deixa o farol apontado para ele.
+6. **O telefone:** número desconhecido. Laura pergunta se ele está com a bolsa do pai dela e implora que ele não vá à polícia hoje (P5). Ela manda o endereço de um diner. (Sem carro cinza no posto: o Vince não tinha como saber onde o Kai estava.)
 7. **Aviso "Your choice is coming"** e **tela de escolha (20 s, `TelaEscolha`):** A: *Meet the woman who called*; B: *Take the bag to the police*.
 
 ### V2A · The All-Night Diner (≈ 4 min)
 1. **Recapitulação (15 s), mapa, e o encontro no diner:** Laura conta que o pai é contador e sumiu depois de mandar uma mensagem estranha. Ela pede ao Kai que guarde a bolsa até a advogada chegar de manhã e oferece *five thousand dollars* do próprio bolso, "pelo incômodo".
-2. **O Vince entra.** Laura empalidece e vai ao banheiro. Vince senta na frente do Kai, educado: *"Fifty grand, and the bag leaves with me. She's lying to you. Her father stole from my boss."*
+2. **O Vince entra.** Laura empalidece ("He's been following me since I left the hospital") e vai ao banheiro. Vince senta na frente do Kai, educado: *"Fifty grand, and the bag leaves with me. She's lying to you. Her father stole from my boss."*
 3. **A dúvida:** Vince mostra no celular uma queixa de furto em nome do Harold. Pela janela, Kai vê a Laura ao telefone, chorando.
 4. **Tela de escolha:** A: *Take the fifty grand*; B: *Run with Laura and the bag*.
 
@@ -88,7 +89,7 @@ V1 · The Bag
 Kai aceita o dinheiro. No estacionamento, Vince rasga o forro da bolsa e tira um pendrive (P2): *"Got it, boss. The cash was just bait."* Kai entende que vendeu a única prova. Ele paga o hospital e salva o carro, mas o noticiário mostra o Harold preso por furto. **Revela o pedaço 3.** Fecho: *"Some debts you pay off with money. That one, I'm still paying."* Contador *"Ending 1 of 4"* e convite para os outros finais.
 
 ### FA2 · The Car Without a Sticker (≈ 4 min)
-Fuga de madrugada, sem violência: uma ponte, o carro cinza no retrovisor, um atalho que só motorista de aplicativo conhece. Ao amanhecer, a advogada recebe a bolsa. Dias depois, Harold, solto, conta ao Kai por que escolheu o carro dele: era o único sem o adesivo do aplicativo, e o Vince vigiava os motoristas de aplicativo no aeroporto. *"That's why I said I was sorry."* (P1). **Revela o pedaço 1.** Custo: o carro foi recolhido e Kai perdeu o trabalho. Fecho com esperança. *"Ending 2 of 4."*
+Fuga de madrugada, sem violência: uma ponte, o carro cinza no retrovisor, um atalho que só motorista de aplicativo conhece. Ao amanhecer, a advogada recebe a bolsa. Dias depois, Harold, solto, conta ao Kai por que escolheu o carro dele: era o único sem o adesivo do aplicativo, e o Vince vigiava os carros de aplicativo na saída do escritório. *"That's why I said I was sorry."* (P1). **Revela o pedaço 1.** Custo: o carro foi recolhido e Kai perdeu o trabalho. Fecho com esperança. *"Ending 2 of 4."*
 
 ### FB1 · Nine-Ten (≈ 4 min)
 Kai conta tudo. A detetive cruza o horário da queixa com o recibo da corrida no aplicativo (P6) e repara no carimbo "BM" das cintas (P3): é dinheiro do caixa paralelo do próprio Brandt, que registrou o furto antes de o dinheiro sair. **Revela o pedaço 2.** Harold é solto e Brandt passa a ser investigado. O dinheiro fica apreendido como prova, sem recompensa, e o carro é recolhido na segunda. Fecho: *"I lost the car. But I slept fine."* *"Ending 3 of 4."*

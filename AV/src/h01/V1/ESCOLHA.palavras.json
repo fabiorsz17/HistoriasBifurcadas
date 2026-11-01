@@ -1,0 +1,324 @@
+{
+ "words": [
+  {
+   "text": "So",
+   "startMs": 0,
+   "endMs": 160
+  },
+  {
+   "text": "yeah.",
+   "startMs": 240,
+   "endMs": 880
+  },
+  {
+   "text": "That",
+   "startMs": 960,
+   "endMs": 1040
+  },
+  {
+   "text": "was",
+   "startMs": 1120,
+   "endMs": 1200
+  },
+  {
+   "text": "my",
+   "startMs": 1280,
+   "endMs": 1360
+  },
+  {
+   "text": "night",
+   "startMs": 1480,
+   "endMs": 1600
+  },
+  {
+   "text": "so",
+   "startMs": 1720,
+   "endMs": 1840
+  },
+  {
+   "text": "far.",
+   "startMs": 1960,
+   "endMs": 2560
+  },
+  {
+   "text": "A",
+   "startMs": 2640,
+   "endMs": 2720
+  },
+  {
+   "text": "bag",
+   "startMs": 2840,
+   "endMs": 2960
+  },
+  {
+   "text": "of",
+   "startMs": 3040,
+   "endMs": 3120
+  },
+  {
+   "text": "cash,",
+   "startMs": 3360,
+   "endMs": 3840
+  },
+  {
+   "text": "a",
+   "startMs": 3880,
+   "endMs": 3920
+  },
+  {
+   "text": "crying",
+   "startMs": 4000,
+   "endMs": 4320
+  },
+  {
+   "text": "stranger,",
+   "startMs": 4400,
+   "endMs": 5200
+  },
+  {
+   "text": "and",
+   "startMs": 5240,
+   "endMs": 5280
+  },
+  {
+   "text": "a",
+   "startMs": 5360,
+   "endMs": 5440
+  },
+  {
+   "text": "diner",
+   "startMs": 5480,
+   "endMs": 5760
+  },
+  {
+   "text": "address",
+   "startMs": 5840,
+   "endMs": 6160
+  },
+  {
+   "text": "on",
+   "startMs": 6200,
+   "endMs": 6240
+  },
+  {
+   "text": "my",
+   "startMs": 6320,
+   "endMs": 6480
+  },
+  {
+   "text": "phone.",
+   "startMs": 6960,
+   "endMs": 7480
+  },
+  {
+   "text": "If",
+   "startMs": 7520,
+   "endMs": 7600
+  },
+  {
+   "text": "you",
+   "startMs": 7680,
+   "endMs": 7760
+  },
+  {
+   "text": "think",
+   "startMs": 7840,
+   "endMs": 7920
+  },
+  {
+   "text": "I",
+   "startMs": 8080,
+   "endMs": 8133
+  },
+  {
+   "text": "should",
+   "startMs": 8187,
+   "endMs": 8240
+  },
+  {
+   "text": "meet",
+   "startMs": 8320,
+   "endMs": 8400
+  },
+  {
+   "text": "the",
+   "startMs": 8480,
+   "endMs": 8560
+  },
+  {
+   "text": "woman",
+   "startMs": 8680,
+   "endMs": 8800
+  },
+  {
+   "text": "who",
+   "startMs": 8880,
+   "endMs": 8960
+  },
+  {
+   "text": "called,",
+   "startMs": 9040,
+   "endMs": 9640
+  },
+  {
+   "text": "tap",
+   "startMs": 9680,
+   "endMs": 9920
+  },
+  {
+   "text": "the",
+   "startMs": 9960,
+   "endMs": 10000
+  },
+  {
+   "text": "video",
+   "startMs": 10080,
+   "endMs": 10320
+  },
+  {
+   "text": "on",
+   "startMs": 10400,
+   "endMs": 10480
+  },
+  {
+   "text": "the",
+   "startMs": 10520,
+   "endMs": 10560
+  },
+  {
+   "text": "left.",
+   "startMs": 10640,
+   "endMs": 11480
+  },
+  {
+   "text": "If",
+   "startMs": 11520,
+   "endMs": 11600
+  },
+  {
+   "text": "I",
+   "startMs": 11680,
+   "endMs": 11720
+  },
+  {
+   "text": "should",
+   "startMs": 11760,
+   "endMs": 11920
+  },
+  {
+   "text": "take",
+   "startMs": 12000,
+   "endMs": 12080
+  },
+  {
+   "text": "the",
+   "startMs": 12160,
+   "endMs": 12240
+  },
+  {
+   "text": "bag",
+   "startMs": 12360,
+   "endMs": 12480
+  },
+  {
+   "text": "to",
+   "startMs": 12520,
+   "endMs": 12560
+  },
+  {
+   "text": "the",
+   "startMs": 12640,
+   "endMs": 12720
+  },
+  {
+   "text": "police,",
+   "startMs": 12800,
+   "endMs": 13480
+  },
+  {
+   "text": "tap",
+   "startMs": 13520,
+   "endMs": 13680
+  },
+  {
+   "text": "the",
+   "startMs": 13760,
+   "endMs": 13840
+  },
+  {
+   "text": "one",
+   "startMs": 13920,
+   "endMs": 14000
+  },
+  {
+   "text": "on",
+   "startMs": 14040,
+   "endMs": 14080
+  },
+  {
+   "text": "the",
+   "startMs": 14160,
+   "endMs": 14240
+  },
+  {
+   "text": "right.",
+   "startMs": 14600,
+   "endMs": 15040
+  },
+  {
+   "text": "And",
+   "startMs": 15080,
+   "endMs": 15120
+  },
+  {
+   "text": "you",
+   "startMs": 15160,
+   "endMs": 15200
+  },
+  {
+   "text": "can",
+   "startMs": 15320,
+   "endMs": 15440
+  },
+  {
+   "text": "always",
+   "startMs": 15520,
+   "endMs": 15840
+  },
+  {
+   "text": "come",
+   "startMs": 15960,
+   "endMs": 16080
+  },
+  {
+   "text": "back",
+   "startMs": 16160,
+   "endMs": 16320
+  },
+  {
+   "text": "and",
+   "startMs": 16400,
+   "endMs": 16480
+  },
+  {
+   "text": "try",
+   "startMs": 16560,
+   "endMs": 16720
+  },
+  {
+   "text": "the",
+   "startMs": 16800,
+   "endMs": 16880
+  },
+  {
+   "text": "other",
+   "startMs": 16960,
+   "endMs": 17040
+  },
+  {
+   "text": "path.",
+   "startMs": 17120,
+   "endMs": 17920
+  }
+ ]
+}

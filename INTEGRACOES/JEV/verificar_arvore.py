@@ -131,7 +131,8 @@ def verificar(pasta):
         perguntar(f"{no} abertura", blocos[0], REGUA_GANCHO, bons=("situa",))
         if d.get("filhos"):
             esc = d["escolha"]
-            perguntar(f"{no} escolha", {"fim_do_video": blocos[-1], "pergunta": esc["pergunta"], "opcao_A": esc["A"], "opcao_B": esc["B"]}, REGUA_ESCOLHA)
+            # O bloco ESCOLHA sozinho é só a fórmula do canal: o dilema está no bloco narrativo anterior.
+            perguntar(f"{no} escolha", {"fim_do_video": "\n\n".join(blocos[-2:]), "pergunta": esc["pergunta"], "opcao_A": esc["A"], "opcao_B": esc["B"]}, REGUA_ESCOLHA)
         antes = caminho_ate(arvore, no)
         if antes:
             historia = "\n\n".join(t for n in antes for t in textos.get(n, []))

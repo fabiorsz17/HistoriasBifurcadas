@@ -19,6 +19,7 @@ Uso:
   python narracao_unica.py autorizar <pasta do episódio> <teto> "<ordem do usuário>"
   python narracao_unica.py liberar <pasta do episódio> <bloco> "<motivo dito pelo usuário>"
   python narracao_unica.py estado  <pasta do episódio>
+  python narracao_unica.py vozes                                   # saldo e vozes da conta (grátis, chave de leitura)
 A chave nunca é impressa nem gravada.
 """
 import ctypes
@@ -34,8 +35,10 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[2]
 REGISTRO = Path(os.environ.get('HB_REGISTRO_ELEVENLABS', RAIZ / 'INTEGRACOES' / 'ELEVENLABS' / 'registro_elevenlabs.json'))
+# Duas chaves (decisão do usuário, 01/11/2026): a de voz só gera áudio; a de leitura consulta saldo e vozes.
 CHAVE = Path(__file__).resolve().parent / '.secrets' / 'elevenlabs-tts-key.dpapi'  # Configurar-Chave-ElevenLabs.ps1 -Purpose TTS
-VOZ = ''  # voz do canal: ainda não escolhida pelo usuário. Enquanto vazia, toda geração real é recusada.
+CHAVE_LEITURA = Path(__file__).resolve().parent / '.secrets' / 'elevenlabs-api-key.dpapi'  # Configurar-Chave-ElevenLabs.ps1 -Purpose ReadOnly
+VOZ = 'x4IlOQV48pkmFjKlH6gP'  # voz "Kai_", criada pelo usuário no Voice Design (01/11/2026)
 MODELO = 'eleven_v4'  # o mesmo do Zero a 100; confirmar com o usuário ao escolher a voz
 SUFIXO = 'v4'
 PORTOES = ['revisor_texto', 'extenso', 'tempo', 'jev']
@@ -123,8 +126,8 @@ class _Blob(ctypes.Structure):
     _fields_ = [('cbData', wt.DWORD), ('pbData', ctypes.POINTER(ctypes.c_char))]
 
 
-def _chave():
-    dados = bytes.fromhex(CHAVE.read_text(encoding='utf-8').strip())
+def _chave(arquivo=CHAVE):
+    dados = bytes.fromhex(arquivo.read_text(encoding='utf-8').strip())
     entrada = _Blob(len(dados), ctypes.cast(ctypes.create_string_buffer(dados, len(dados)), ctypes.POINTER(ctypes.c_char)))
     saida = _Blob()
     if not ctypes.windll.crypt32.CryptUnprotectData(ctypes.byref(entrada), None, None, None, None, 0, ctypes.byref(saida)):
@@ -135,16 +138,24 @@ def _chave():
         ctypes.windll.kernel32.LocalFree(saida.pbData)
 
 
-def _pedido(metodo, url, corpo=None, timeout=60):
-    cab = {'xi-api-key': _chave(), 'Content-Type': 'application/json; charset=utf-8'}
+def _pedido(metodo, url, corpo=None, timeout=60, arquivo=CHAVE):
+    cab = {'xi-api-key': _chave(arquivo), 'Content-Type': 'application/json; charset=utf-8'}
     dados = json.dumps(corpo).encode('utf-8') if corpo is not None else None
     with urllib.request.urlopen(urllib.request.Request(url, data=dados, headers=cab, method=metodo), timeout=timeout) as r:
         return json.loads(r.read().decode('utf-8'))
 
 
 def saldo():
-    s = _pedido('GET', 'https://api.elevenlabs.io/v1/user/subscription', timeout=20)
+    leitura = CHAVE_LEITURA if CHAVE_LEITURA.exists() else CHAVE
+    s = _pedido('GET', 'https://api.elevenlabs.io/v1/user/subscription', timeout=20, arquivo=leitura)
     return int(s['character_limit']) - int(s['character_count'])
+
+
+def vozes():
+    """Vozes da conta (consulta gratuita, com a chave de leitura): [(nome, voice_id)]."""
+    leitura = CHAVE_LEITURA if CHAVE_LEITURA.exists() else CHAVE
+    r = _pedido('GET', 'https://api.elevenlabs.io/v2/voices?page_size=100', timeout=20, arquivo=leitura)
+    return [(v['name'], v['voice_id']) for v in r.get('voices', [])]
 
 
 def _enviar(texto, lista, i):
@@ -181,7 +192,8 @@ def gerar(pasta, bloco, enviar=None):
         mp3 = saida / f'{bloco}-{SUFIXO}-{dt.datetime.now():%Y%m%d%H%M%S}.mp3'
     mp3.write_bytes(base64.b64decode(resp['audio_base64']))
     mp3.with_suffix('').with_suffix('.alinhamento.json').write_text(json.dumps(resp.get('alignment'), ensure_ascii=False), encoding='utf-8')
-    g.update(status='concluida', fim=agora(), audio=str(mp3.relative_to(RAIZ)), audio_sha256=hashlib.sha256(mp3.read_bytes()).hexdigest())
+    # resolve(): a pasta pode vir relativa ("HISTORIAS/H01..."), e relative_to exige caminho absoluto.
+    g.update(status='concluida', fim=agora(), audio=str(mp3.resolve().relative_to(RAIZ)), audio_sha256=hashlib.sha256(mp3.read_bytes()).hexdigest())
     reg = ler_registro()
     reg['episodios'][ep]['blocos'][bloco]['geracoes'][-1] = g
     gravar_registro(reg)
@@ -213,7 +225,7 @@ def simular(pasta, bloco):
     (saida / f'{bloco}-simulado.alinhamento.json').write_text(json.dumps(alin, ensure_ascii=False), encoding='utf-8')
     reg = ler_registro()
     reg['episodios'].setdefault(chave_ep(pasta), {}).setdefault('blocos', {}).setdefault(bloco, {}).setdefault('geracoes', []).append(
-        {'tipo': 'simulada', 'status': 'concluida', 'inicio': agora(), 'fim': agora(), 'caracteres': 0, 'audio': str(wav.relative_to(RAIZ))})
+        {'tipo': 'simulada', 'status': 'concluida', 'inicio': agora(), 'fim': agora(), 'caracteres': 0, 'audio': str(wav.resolve().relative_to(RAIZ))})
     gravar_registro(reg)
     return wav
 
@@ -255,6 +267,10 @@ if __name__ == '__main__':
             liberar(a[1], a[2], a[3]); print('Uma nova geração liberada para o bloco.')
         elif a[:1] == ['estado']:
             estado(a[1])
+        elif a[:1] == ['vozes']:
+            print(f'Saldo: {saldo()} créditos')
+            for nome, vid in vozes():
+                print(f'{vid}  {nome}')
         else:
             print(__doc__)
             sys.exit(2)

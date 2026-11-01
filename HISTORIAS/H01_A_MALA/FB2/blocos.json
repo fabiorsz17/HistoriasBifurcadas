@@ -2,23 +2,23 @@
  "blocos": [
   {
    "id": "B01",
-   "narracao": "",
-   "visual": "Kai assina e recebe twenty thousand dollars; Harold segue preso"
+   "narracao": "Short version, if you just got here. I was three weeks behind on my rental car when a passenger left two hundred grand in my trunk, and I took it to the police. By then my passenger, Harold, had been arrested for stealing it, and his daughter, Laura, swore he didn't. Then his boss got on speakerphone and offered me twenty grand to sign a statement and go home. I signed. I told myself it wasn't my business. That the police would figure it out. That twenty thousand dollars was just the reward for doing the right thing. Detective Bell slid the paper over without a word. Laura didn't look at me when I left. She just sat there, staring at the floor, with her car keys still in her hand. Brandt's office wired the money on Monday. I caught up on the car. I paid off the hospital. I wrote \"paid in full\" across the bill and stuck it back on the fridge. And for about three weeks, life was good. I picked up extra shifts. I slept in on Sundays. I bought my mom flowers for no reason. Harold stayed in jail. I read about it once, and then I stopped reading.",
+   "visual": "Recapitulação (mapa da árvore com o caminho aceso) + Kai assina; Laura não olha para ele; a transferência; carro e hospital pagos; três semanas boas; Harold continua preso"
   },
   {
    "id": "B02",
-   "narracao": "",
-   "visual": "Semanas depois: envelope embaixo do banco, pendrive e bilhete 'You're my plan B'"
+   "narracao": "Then the rental program called. My contract was ending, and they wanted the car back clean. So on a Sunday, I took it to a self-service car wash and vacuumed it out for the first time in, honestly, months. Under the passenger seat, my hand hit something taped to the bottom of the frame. A thick envelope. Inside was a thumb drive and a note, in shaky ballpoint pen. \"I'm sorry. You're my plan B. Take this to the federal investigators, not the local station. Please.\" It was signed Harold. \"I'm sorry.\" Same thing he'd said at the airport, with his hand on my shoulder. I thought about that red light. The way he leaned forward and reached under the seat for ten whole seconds. \"Dropped my pen,\" he'd said. He never dropped a pen.",
+   "visual": "O programa pede o carro de volta limpo; o lava-rápido de domingo; o envelope colado embaixo do banco (P4); o bilhete (P1)"
   },
   {
    "id": "B03",
-   "narracao": "",
-   "visual": "Kai na porta do prédio federal com o envelope + Ending 4 of 4"
+   "narracao": "I sat in that car wash for an hour. Somebody behind me honked twice, and I just waved them around. Twenty thousand dollars of Russell Brandt's money had paid off my whole life. And Harold had trusted me, a total stranger, with the one thing that could get him out. Not the cash. This. On Monday morning, I drove to the federal building downtown. I parked across the street and sat there with the envelope on my lap, watching people go in and out of those glass doors. I checked my phone, like, ten times. I almost started the car twice. Signing that paper had been easy. This was the hard part. And honestly, I still don't know if that morning was the end of this story, or the start of a whole different one.",
+   "visual": "Uma hora no lava-rápido; segunda-feira, o prédio federal; Kai do outro lado da rua com o envelope no colo (final aberto)"
   },
   {
    "id": "CTA",
-   "narracao": "",
-   "visual": "contador de finais + convite para os outros caminhos"
+   "narracao": "That's ending four of four. If you've seen all four, you know the whole thing now. The bag, the money, the thumb drive, all of it. If you haven't, you're still missing a piece. Go back and find it. The full map is pinned in the comments.",
+   "visual": "Contador 'Ending 4 of 4' + mapa"
   }
  ]
 }

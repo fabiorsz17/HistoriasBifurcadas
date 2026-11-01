@@ -65,7 +65,8 @@ Cada nó também recebe `audio/`, `portoes_voz.json` e, na publicação, `PUBLIC
 5. **Palavras:** `python INTEGRACOES/ELEVENLABS/palavras.py <nó>/audio/Bxx-v4.alinhamento.json AV/src/<história>/<nó>/Bxx.palavras.json`; copiar o mp3 para `AV/public/<história>/<nó>/`.
 6. **Animação** (subagente `programador-cenas`) com o motor de `AV/src/motor/` → quadros-chave → `revisor-visual` → aprovação.
 7. **Render final:** `AV/Renderizar.ps1 -Composicao <id> -Final` → enviar o `-upload.mp4` (2560x1440, sem metadados).
-8. **Publicação** (só quando o usuário pedir): pacote por vídeo em `PUBLICAR/`, em inglês, revisado pelo `revisor-ingles` e pelo `linguagem_ia.py`.
+8. **Legenda oficial:** `python INTEGRACOES/ELEVENLABS/legendas_srt.py <nó> --inicios B01=…` com os inícios reais dos blocos no vídeo montado. O `legenda-en.srt` sobe no YouTube como legenda em inglês, o que ajuda na busca, na tradução automática e na acessibilidade.
+9. **Publicação** (só quando o usuário pedir): pacote por vídeo em `PUBLICAR/`, em inglês, revisado pelo `revisor-ingles` e pelo `linguagem_ia.py`.
 
 ## Regras do YouTube (o formato depende delas)
 - **Nunca "conteúdo para crianças".** Esse tipo de vídeo perde a tela final, os cards e os comentários. O JEV `publico` precisa ler "adultos".

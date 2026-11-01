@@ -1,0 +1,122 @@
+{
+ "B01": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "a8d1e9da8564c9c8b8c693bd53e7b22848583795e8eacb9c42b23cbf77692ace"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "60 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "a8d1e9da8564c9c8b8c693bd53e7b22848583795e8eacb9c42b23cbf77692ace"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.76 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "a8d1e9da8564c9c8b8c693bd53e7b22848583795e8eacb9c42b23cbf77692ace"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 2: Here's his number explica a ligação; Kai, rideshare e aluguel atrasado na fala dele; recap dá o que está em jogo em 15 s (obs. baixa: nome e dívida só perto dos 50 s, aceito pelo trade-off com o JEV); 60 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:03:27+00:00",
+   "texto_sha": "a8d1e9da8564c9c8b8c693bd53e7b22848583795e8eacb9c42b23cbf77692ace"
+  }
+ },
+ "B02": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "f757900ba5264125676255707843493805acd561ca3f8297187e70c85f7eddeb"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "54 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "f757900ba5264125676255707843493805acd561ca3f8297187e70c85f7eddeb"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.86 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "f757900ba5264125676255707843493805acd561ca3f8297187e70c85f7eddeb"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Cinco mil, até as oito, Vince seguiu a Laura desde o hospital: explica a chegada; obs. baixa: como o Vince sabe o nome do Kai fica implícito",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:13+00:00",
+   "texto_sha": "f757900ba5264125676255707843493805acd561ca3f8297187e70c85f7eddeb"
+  }
+ },
+ "B03": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "a8472c76dffdfa180cc525e0cfa221bfb5d4f7380eda249bc8fae77d7ac907af"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "49 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "a8472c76dffdfa180cc525e0cfa221bfb5d4f7380eda249bc8fae77d7ac907af"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.77 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "a8472c76dffdfa180cc525e0cfa221bfb5d4f7380eda249bc8fae77d7ac907af"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Cinquenta mil, queixa no celular, Laura ao telefone; para no auge sem violência",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:13+00:00",
+   "texto_sha": "a8472c76dffdfa180cc525e0cfa221bfb5d4f7380eda249bc8fae77d7ac907af"
+  }
+ },
+ "ESCOLHA": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "3d999b67e2edd98e93377a3c23bd7731a85b23c248624871bba3aa9797557051"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "18 s estimados (faixa 8–30 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "3d999b67e2edd98e93377a3c23bd7731a85b23c248624871bba3aa9797557051"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.8 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:02:44+00:00",
+   "texto_sha": "3d999b67e2edd98e93377a3c23bd7731a85b23c248624871bba3aa9797557051"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Fórmula ok, opções iguais ao arvore.json, as duas custam",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:13+00:00",
+   "texto_sha": "3d999b67e2edd98e93377a3c23bd7731a85b23c248624871bba3aa9797557051"
+  }
+ }
+}

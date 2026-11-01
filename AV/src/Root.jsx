@@ -1,5 +1,6 @@
 import React from 'react';
 import {Composition} from 'remotion';
+import {DURACAO_B01, V1B01} from './h01/V1/B01.jsx';
 import {FolhaPersonagem} from './testes/FolhaPersonagem.jsx';
 import {TelaEscolhaDemo} from './testes/TelaEscolhaDemo.jsx';
 import {TesteCamera} from './testes/TesteCamera.jsx';
@@ -29,6 +30,7 @@ const Par = ({id, component, durationInFrames, fps = 30}) => (
 
 export const RemotionRoot = () => (
   <>
+    <Par id="H01-V1-B01" component={V1B01} durationInFrames={DURACAO_B01} />
     <Par id="TesteCamera" component={TesteCamera} durationInFrames={300} />
     <Par id="FolhaPersonagem" component={FolhaPersonagem} durationInFrames={1} />
     <Par id="TelaEscolhaDemo" component={TelaEscolhaDemo} durationInFrames={600} />

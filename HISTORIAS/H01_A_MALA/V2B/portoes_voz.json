@@ -1,0 +1,152 @@
+{
+ "B01": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:17+00:00",
+   "texto_sha": "3a42b6dd5afdfb42c94168a8a7c21f0d936475c6a275454ee25f7eccdd79077e"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "64 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:17+00:00",
+   "texto_sha": "3a42b6dd5afdfb42c94168a8a7c21f0d936475c6a275454ee25f7eccdd79077e"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.78 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:17+00:00",
+   "texto_sha": "3a42b6dd5afdfb42c94168a8a7c21f0d936475c6a275454ee25f7eccdd79077e"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 2: abertura situa Kai, rideshare, aluguel, hospital e dinheiro nos primeiros 15 s, no passado; 64 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:03:28+00:00",
+   "texto_sha": "3a42b6dd5afdfb42c94168a8a7c21f0d936475c6a275454ee25f7eccdd79077e"
+  }
+ },
+ "B02": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "7efd481e758d9321d56f21533bf098469465ec40427d8ce18de2a5b9909953f6"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "65 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "7efd481e758d9321d56f21533bf098469465ec40427d8ce18de2a5b9909953f6"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.77 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "7efd481e758d9321d56f21533bf098469465ec40427d8ce18de2a5b9909953f6"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 2: Laura chega porque estão trazendo o pai para lá, coerente com o FB1 e o FB2; obs. baixa: 'guy at the front desk' x 'just one detective' não chega a contradizer; 65 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:03:28+00:00",
+   "texto_sha": "7efd481e758d9321d56f21533bf098469465ec40427d8ce18de2a5b9909953f6"
+  }
+ },
+ "B03": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "6a08cb8128d0b4842f464e8350a26b921e7986f5e3efb662ea7c0f1fd233c768"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "47 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "6a08cb8128d0b4842f464e8350a26b921e7986f5e3efb662ea7c0f1fd233c768"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.84 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "6a08cb8128d0b4842f464e8350a26b921e7986f5e3efb662ea7c0f1fd233c768"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "P6 plantada; nine-ten x ten-forty corretos; obs. baixa: 'waiting for a ride' 90 min antes é exagero, basta 'still at the office'",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:14+00:00",
+   "texto_sha": "6a08cb8128d0b4842f464e8350a26b921e7986f5e3efb662ea7c0f1fd233c768"
+  }
+ },
+ "B04": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "84229d68e87f768e73345fa11744ca11204ad380a3c1e1375eeb044186262660"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "48 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "84229d68e87f768e73345fa11744ca11204ad380a3c1e1375eeb044186262660"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.78 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "84229d68e87f768e73345fa11744ca11204ad380a3c1e1375eeb044186262660"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Dez por cento = vinte mil correto; Vince chega porque a detetive ligou para o número da queixa; para no auge",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:15+00:00",
+   "texto_sha": "84229d68e87f768e73345fa11744ca11204ad380a3c1e1375eeb044186262660"
+  }
+ },
+ "ESCOLHA": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "a7307ce42568137d08ca546b75467cdf4d1b29bcff57af199a12ab92428719e6"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "19 s estimados (faixa 8–30 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "a7307ce42568137d08ca546b75467cdf4d1b29bcff57af199a12ab92428719e6"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.84 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:01:18+00:00",
+   "texto_sha": "a7307ce42568137d08ca546b75467cdf4d1b29bcff57af199a12ab92428719e6"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Fórmula ok, opções iguais ao arvore.json, dilema concreto",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:15+00:00",
+   "texto_sha": "a7307ce42568137d08ca546b75467cdf4d1b29bcff57af199a12ab92428719e6"
+  }
+ }
+}

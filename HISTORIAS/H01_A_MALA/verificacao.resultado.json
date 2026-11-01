@@ -1,0 +1,1148 @@
+{
+ "V1 história": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "publico": {
+    "type": "choice",
+    "choice": "adultos",
+    "confidence": 0.96,
+    "probabilities": {
+     "criancas": 0.0,
+     "adolescentes": 0.03,
+     "adultos": 0.97
+    }
+   },
+   "anunciante": {
+    "type": "noul",
+    "noul": 0.1
+   },
+   "ofensa": {
+    "type": "noul",
+    "noul": 0.04
+   },
+   "estereotipo": {
+    "type": "noul",
+    "noul": 0.16
+   },
+   "vilao_por_traco": {
+    "type": "noul",
+    "noul": 0.13
+   },
+   "cultura_americana": {
+    "type": "noul",
+    "noul": 0.81
+   },
+   "clareza": {
+    "type": "score",
+    "score": 1.71,
+    "confidence": 0.55,
+    "legend": {
+     "0": "Confuso: personagens, lugar ou ação não ficam claros",
+     "1": "Compreensível com atenção; algum trecho exige voltar",
+     "2": "Claro na primeira escuta: quem, onde e o que está em jogo"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.28,
+     "2": 0.71
+    }
+   },
+   "tensao": {
+    "type": "score",
+    "score": 1.98,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Morna: nada está em jogo, dá para parar a qualquer momento",
+     "1": "Há algo em jogo, mas a tensão cai em trechos longos",
+     "2": "Cada trecho aumenta a dúvida ou o risco; difícil parar de ouvir"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.98
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1799,
+   "output_tokens": 171
+  }
+ },
+ "V1 abertura": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "curiosidade": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Abertura genérica; nada faz querer saber o que vem depois",
+     "1": "Desperta algum interesse, mas a situação demora a ficar clara",
+     "2": "Joga a pessoa direto numa situação tensa ou estranha e cria uma pergunta"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "situa": {
+    "type": "noul",
+    "noul": 0.78
+   }
+  },
+  "usage": {
+   "input_tokens": 531,
+   "output_tokens": 36
+  }
+ },
+ "V1 escolha": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "equilibrio": {
+    "type": "score",
+    "score": 1.74,
+    "confidence": 0.61,
+    "legend": {
+     "0": "Uma opção é claramente a certa (ou a mais divertida); quase ninguém escolheria a outra",
+     "1": "As duas têm apelo, mas uma puxa bem mais",
+     "2": "Dilema real: dá vontade de escolher as duas, e cada uma custa algo"
+    },
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.16,
+     "2": 0.79
+    }
+   },
+   "obvia": {
+    "type": "noul",
+    "noul": 0.17
+   },
+   "suspense": {
+    "type": "score",
+    "score": 1.99,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Para num momento calmo; a escolha parece um detalhe",
+     "1": "Há tensão, mas a escolha chega cedo ou tarde demais",
+     "2": "Para no auge: a decisão é urgente e as consequências parecem grandes"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.99
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 799,
+   "output_tokens": 51
+  }
+ },
+ "V2A história": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "publico": {
+    "type": "choice",
+    "choice": "adultos",
+    "confidence": 0.97,
+    "probabilities": {
+     "criancas": 0.0,
+     "adolescentes": 0.02,
+     "adultos": 0.98
+    }
+   },
+   "anunciante": {
+    "type": "noul",
+    "noul": 0.12
+   },
+   "ofensa": {
+    "type": "noul",
+    "noul": 0.05
+   },
+   "estereotipo": {
+    "type": "noul",
+    "noul": 0.2
+   },
+   "vilao_por_traco": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "cultura_americana": {
+    "type": "noul",
+    "noul": 0.81
+   },
+   "clareza": {
+    "type": "score",
+    "score": 1.77,
+    "confidence": 0.67,
+    "legend": {
+     "0": "Confuso: personagens, lugar ou ação não ficam claros",
+     "1": "Compreensível com atenção; algum trecho exige voltar",
+     "2": "Claro na primeira escuta: quem, onde e o que está em jogo"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.22,
+     "2": 0.78
+    }
+   },
+   "tensao": {
+    "type": "score",
+    "score": 1.96,
+    "confidence": 0.92,
+    "legend": {
+     "0": "Morna: nada está em jogo, dá para parar a qualquer momento",
+     "1": "Há algo em jogo, mas a tensão cai em trechos longos",
+     "2": "Cada trecho aumenta a dúvida ou o risco; difícil parar de ouvir"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.03,
+     "2": 0.96
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1447,
+   "output_tokens": 171
+  }
+ },
+ "V2A abertura": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "curiosidade": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Abertura genérica; nada faz querer saber o que vem depois",
+     "1": "Desperta algum interesse, mas a situação demora a ficar clara",
+     "2": "Joga a pessoa direto numa situação tensa ou estranha e cria uma pergunta"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "situa": {
+    "type": "noul",
+    "noul": 0.66
+   }
+  },
+  "usage": {
+   "input_tokens": 599,
+   "output_tokens": 36
+  }
+ },
+ "V2A escolha": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "equilibrio": {
+    "type": "score",
+    "score": 1.88,
+    "confidence": 0.8,
+    "legend": {
+     "0": "Uma opção é claramente a certa (ou a mais divertida); quase ninguém escolheria a outra",
+     "1": "As duas têm apelo, mas uma puxa bem mais",
+     "2": "Dilema real: dá vontade de escolher as duas, e cada uma custa algo"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.09,
+     "2": 0.89
+    }
+   },
+   "obvia": {
+    "type": "noul",
+    "noul": 0.11
+   },
+   "suspense": {
+    "type": "score",
+    "score": 1.99,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Para num momento calmo; a escolha parece um detalhe",
+     "1": "Há tensão, mas a escolha chega cedo ou tarde demais",
+     "2": "Para no auge: a decisão é urgente e as consequências parecem grandes"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.99
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 766,
+   "output_tokens": 51
+  }
+ },
+ "V2A continuidade": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "contradiz": {
+    "type": "noul",
+    "noul": 0.13
+   }
+  },
+  "usage": {
+   "input_tokens": 2040,
+   "output_tokens": 22
+  }
+ },
+ "V2B história": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "publico": {
+    "type": "choice",
+    "choice": "adultos",
+    "confidence": 0.89,
+    "probabilities": {
+     "criancas": 0.0,
+     "adolescentes": 0.07,
+     "adultos": 0.93
+    }
+   },
+   "anunciante": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "ofensa": {
+    "type": "noul",
+    "noul": 0.04
+   },
+   "estereotipo": {
+    "type": "noul",
+    "noul": 0.11
+   },
+   "vilao_por_traco": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "cultura_americana": {
+    "type": "noul",
+    "noul": 0.8
+   },
+   "clareza": {
+    "type": "score",
+    "score": 1.77,
+    "confidence": 0.64,
+    "legend": {
+     "0": "Confuso: personagens, lugar ou ação não ficam claros",
+     "1": "Compreensível com atenção; algum trecho exige voltar",
+     "2": "Claro na primeira escuta: quem, onde e o que está em jogo"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.22,
+     "2": 0.77
+    }
+   },
+   "tensao": {
+    "type": "score",
+    "score": 1.97,
+    "confidence": 0.97,
+    "legend": {
+     "0": "Morna: nada está em jogo, dá para parar a qualquer momento",
+     "1": "Há algo em jogo, mas a tensão cai em trechos longos",
+     "2": "Cada trecho aumenta a dúvida ou o risco; difícil parar de ouvir"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.02,
+     "2": 0.98
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1661,
+   "output_tokens": 171
+  }
+ },
+ "V2B abertura": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "curiosidade": {
+    "type": "score",
+    "score": 1.99,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Abertura genérica; nada faz querer saber o que vem depois",
+     "1": "Desperta algum interesse, mas a situação demora a ficar clara",
+     "2": "Joga a pessoa direto numa situação tensa ou estranha e cria uma pergunta"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.99
+    }
+   },
+   "situa": {
+    "type": "noul",
+    "noul": 0.86
+   }
+  },
+  "usage": {
+   "input_tokens": 607,
+   "output_tokens": 36
+  }
+ },
+ "V2B escolha": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "equilibrio": {
+    "type": "score",
+    "score": 1.82,
+    "confidence": 0.73,
+    "legend": {
+     "0": "Uma opção é claramente a certa (ou a mais divertida); quase ninguém escolheria a outra",
+     "1": "As duas têm apelo, mas uma puxa bem mais",
+     "2": "Dilema real: dá vontade de escolher as duas, e cada uma custa algo"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.14,
+     "2": 0.84
+    }
+   },
+   "obvia": {
+    "type": "noul",
+    "noul": 0.21
+   },
+   "suspense": {
+    "type": "score",
+    "score": 1.99,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Para num momento calmo; a escolha parece um detalhe",
+     "1": "Há tensão, mas a escolha chega cedo ou tarde demais",
+     "2": "Para no auge: a decisão é urgente e as consequências parecem grandes"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.99
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 767,
+   "output_tokens": 51
+  }
+ },
+ "V2B continuidade": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "contradiz": {
+    "type": "noul",
+    "noul": 0.19
+   }
+  },
+  "usage": {
+   "input_tokens": 2254,
+   "output_tokens": 22
+  }
+ },
+ "FA1 história": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "publico": {
+    "type": "choice",
+    "choice": "adultos",
+    "confidence": 0.98,
+    "probabilities": {
+     "criancas": 0.0,
+     "adolescentes": 0.01,
+     "adultos": 0.99
+    }
+   },
+   "anunciante": {
+    "type": "noul",
+    "noul": 0.13
+   },
+   "ofensa": {
+    "type": "noul",
+    "noul": 0.04
+   },
+   "estereotipo": {
+    "type": "noul",
+    "noul": 0.11
+   },
+   "vilao_por_traco": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "cultura_americana": {
+    "type": "noul",
+    "noul": 0.81
+   },
+   "clareza": {
+    "type": "score",
+    "score": 1.51,
+    "confidence": 0.26,
+    "legend": {
+     "0": "Confuso: personagens, lugar ou ação não ficam claros",
+     "1": "Compreensível com atenção; algum trecho exige voltar",
+     "2": "Claro na primeira escuta: quem, onde e o que está em jogo"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.47,
+     "2": 0.52
+    }
+   },
+   "tensao": {
+    "type": "score",
+    "score": 1.77,
+    "confidence": 0.66,
+    "legend": {
+     "0": "Morna: nada está em jogo, dá para parar a qualquer momento",
+     "1": "Há algo em jogo, mas a tensão cai em trechos longos",
+     "2": "Cada trecho aumenta a dúvida ou o risco; difícil parar de ouvir"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.21,
+     "2": 0.78
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1420,
+   "output_tokens": 171
+  }
+ },
+ "FA1 abertura": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "curiosidade": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Abertura genérica; nada faz querer saber o que vem depois",
+     "1": "Desperta algum interesse, mas a situação demora a ficar clara",
+     "2": "Joga a pessoa direto numa situação tensa ou estranha e cria uma pergunta"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "situa": {
+    "type": "noul",
+    "noul": 0.55
+   }
+  },
+  "usage": {
+   "input_tokens": 614,
+   "output_tokens": 36
+  }
+ },
+ "FA1 continuidade": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "contradiz": {
+    "type": "noul",
+    "noul": 0.14
+   }
+  },
+  "usage": {
+   "input_tokens": 2668,
+   "output_tokens": 22
+  }
+ },
+ "FA1 segredo": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "revela": {
+    "type": "noul",
+    "noul": 0.94
+   }
+  },
+  "usage": {
+   "input_tokens": 952,
+   "output_tokens": 21
+  }
+ },
+ "FA2 história": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "publico": {
+    "type": "choice",
+    "choice": "adultos",
+    "confidence": 0.98,
+    "probabilities": {
+     "criancas": 0.0,
+     "adolescentes": 0.01,
+     "adultos": 0.99
+    }
+   },
+   "anunciante": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "ofensa": {
+    "type": "noul",
+    "noul": 0.04
+   },
+   "estereotipo": {
+    "type": "noul",
+    "noul": 0.09
+   },
+   "vilao_por_traco": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "cultura_americana": {
+    "type": "noul",
+    "noul": 0.74
+   },
+   "clareza": {
+    "type": "score",
+    "score": 1.17,
+    "confidence": 0.61,
+    "legend": {
+     "0": "Confuso: personagens, lugar ou ação não ficam claros",
+     "1": "Compreensível com atenção; algum trecho exige voltar",
+     "2": "Claro na primeira escuta: quem, onde e o que está em jogo"
+    },
+    "probabilities": {
+     "0": 0.05,
+     "1": 0.74,
+     "2": 0.21
+    }
+   },
+   "tensao": {
+    "type": "score",
+    "score": 1.65,
+    "confidence": 0.47,
+    "legend": {
+     "0": "Morna: nada está em jogo, dá para parar a qualquer momento",
+     "1": "Há algo em jogo, mas a tensão cai em trechos longos",
+     "2": "Cada trecho aumenta a dúvida ou o risco; difícil parar de ouvir"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.33,
+     "2": 0.66
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1468,
+   "output_tokens": 171
+  }
+ },
+ "FA2 abertura": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "curiosidade": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Abertura genérica; nada faz querer saber o que vem depois",
+     "1": "Desperta algum interesse, mas a situação demora a ficar clara",
+     "2": "Joga a pessoa direto numa situação tensa ou estranha e cria uma pergunta"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "situa": {
+    "type": "noul",
+    "noul": 0.65
+   }
+  },
+  "usage": {
+   "input_tokens": 592,
+   "output_tokens": 36
+  }
+ },
+ "FA2 continuidade": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "contradiz": {
+    "type": "noul",
+    "noul": 0.14
+   }
+  },
+  "usage": {
+   "input_tokens": 2716,
+   "output_tokens": 22
+  }
+ },
+ "FA2 segredo": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "revela": {
+    "type": "noul",
+    "noul": 0.95
+   }
+  },
+  "usage": {
+   "input_tokens": 1014,
+   "output_tokens": 21
+  }
+ },
+ "FB1 história": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "publico": {
+    "type": "choice",
+    "choice": "adultos",
+    "confidence": 0.97,
+    "probabilities": {
+     "criancas": 0.0,
+     "adolescentes": 0.02,
+     "adultos": 0.98
+    }
+   },
+   "anunciante": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "ofensa": {
+    "type": "noul",
+    "noul": 0.04
+   },
+   "estereotipo": {
+    "type": "noul",
+    "noul": 0.08
+   },
+   "vilao_por_traco": {
+    "type": "noul",
+    "noul": 0.06
+   },
+   "cultura_americana": {
+    "type": "noul",
+    "noul": 0.77
+   },
+   "clareza": {
+    "type": "score",
+    "score": 1.46,
+    "confidence": 0.28,
+    "legend": {
+     "0": "Confuso: personagens, lugar ou ação não ficam claros",
+     "1": "Compreensível com atenção; algum trecho exige voltar",
+     "2": "Claro na primeira escuta: quem, onde e o que está em jogo"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.52,
+     "2": 0.47
+    }
+   },
+   "tensao": {
+    "type": "score",
+    "score": 1.74,
+    "confidence": 0.61,
+    "legend": {
+     "0": "Morna: nada está em jogo, dá para parar a qualquer momento",
+     "1": "Há algo em jogo, mas a tensão cai em trechos longos",
+     "2": "Cada trecho aumenta a dúvida ou o risco; difícil parar de ouvir"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.24,
+     "2": 0.75
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1456,
+   "output_tokens": 171
+  }
+ },
+ "FB1 abertura": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "curiosidade": {
+    "type": "score",
+    "score": 2.0,
+    "confidence": 1.0,
+    "legend": {
+     "0": "Abertura genérica; nada faz querer saber o que vem depois",
+     "1": "Desperta algum interesse, mas a situação demora a ficar clara",
+     "2": "Joga a pessoa direto numa situação tensa ou estranha e cria uma pergunta"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.0,
+     "2": 1.0
+    }
+   },
+   "situa": {
+    "type": "noul",
+    "noul": 0.71
+   }
+  },
+  "usage": {
+   "input_tokens": 631,
+   "output_tokens": 36
+  }
+ },
+ "FB1 continuidade": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "contradiz": {
+    "type": "noul",
+    "noul": 0.18
+   }
+  },
+  "usage": {
+   "input_tokens": 2918,
+   "output_tokens": 22
+  }
+ },
+ "FB1 segredo": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "revela": {
+    "type": "noul",
+    "noul": 0.81
+   }
+  },
+  "usage": {
+   "input_tokens": 996,
+   "output_tokens": 21
+  }
+ },
+ "FB2 história": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "publico": {
+    "type": "choice",
+    "choice": "adultos",
+    "confidence": 0.98,
+    "probabilities": {
+     "criancas": 0.0,
+     "adolescentes": 0.01,
+     "adultos": 0.99
+    }
+   },
+   "anunciante": {
+    "type": "noul",
+    "noul": 0.1
+   },
+   "ofensa": {
+    "type": "noul",
+    "noul": 0.03
+   },
+   "estereotipo": {
+    "type": "noul",
+    "noul": 0.07
+   },
+   "vilao_por_traco": {
+    "type": "noul",
+    "noul": 0.06
+   },
+   "cultura_americana": {
+    "type": "noul",
+    "noul": 0.8
+   },
+   "clareza": {
+    "type": "score",
+    "score": 1.42,
+    "confidence": 0.31,
+    "legend": {
+     "0": "Confuso: personagens, lugar ou ação não ficam claros",
+     "1": "Compreensível com atenção; algum trecho exige voltar",
+     "2": "Claro na primeira escuta: quem, onde e o que está em jogo"
+    },
+    "probabilities": {
+     "0": 0.02,
+     "1": 0.54,
+     "2": 0.44
+    }
+   },
+   "tensao": {
+    "type": "score",
+    "score": 1.84,
+    "confidence": 0.76,
+    "legend": {
+     "0": "Morna: nada está em jogo, dá para parar a qualquer momento",
+     "1": "Há algo em jogo, mas a tensão cai em trechos longos",
+     "2": "Cada trecho aumenta a dúvida ou o risco; difícil parar de ouvir"
+    },
+    "probabilities": {
+     "0": 0.01,
+     "1": 0.14,
+     "2": 0.85
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1441,
+   "output_tokens": 171
+  }
+ },
+ "FB2 abertura": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "curiosidade": {
+    "type": "score",
+    "score": 1.99,
+    "confidence": 0.98,
+    "legend": {
+     "0": "Abertura genérica; nada faz querer saber o que vem depois",
+     "1": "Desperta algum interesse, mas a situação demora a ficar clara",
+     "2": "Joga a pessoa direto numa situação tensa ou estranha e cria uma pergunta"
+    },
+    "probabilities": {
+     "0": 0.0,
+     "1": 0.01,
+     "2": 0.99
+    }
+   },
+   "situa": {
+    "type": "noul",
+    "noul": 0.7
+   }
+  },
+  "usage": {
+   "input_tokens": 627,
+   "output_tokens": 36
+  }
+ },
+ "FB2 continuidade": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "contradiz": {
+    "type": "noul",
+    "noul": 0.14
+   }
+  },
+  "usage": {
+   "input_tokens": 2903,
+   "output_tokens": 22
+  }
+ },
+ "FB2 segredo": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "revela": {
+    "type": "noul",
+    "noul": 0.71
+   }
+  },
+  "usage": {
+   "input_tokens": 975,
+   "output_tokens": 21
+  }
+ },
+ "pista P1 plantada em V1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "aparece": {
+    "type": "noul",
+    "noul": 0.95
+   }
+  },
+  "usage": {
+   "input_tokens": 1338,
+   "output_tokens": 22
+  }
+ },
+ "pista P1 retomada em FA2": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.92
+   }
+  },
+  "usage": {
+   "input_tokens": 999,
+   "output_tokens": 21
+  }
+ },
+ "pista P1 retomada em FB2": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.62
+   }
+  },
+  "usage": {
+   "input_tokens": 972,
+   "output_tokens": 21
+  }
+ },
+ "pista P2 plantada em V1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "aparece": {
+    "type": "noul",
+    "noul": 0.95
+   }
+  },
+  "usage": {
+   "input_tokens": 1330,
+   "output_tokens": 22
+  }
+ },
+ "pista P2 retomada em FA1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.9
+   }
+  },
+  "usage": {
+   "input_tokens": 943,
+   "output_tokens": 21
+  }
+ },
+ "pista P3 plantada em V1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "aparece": {
+    "type": "noul",
+    "noul": 0.96
+   }
+  },
+  "usage": {
+   "input_tokens": 1328,
+   "output_tokens": 22
+  }
+ },
+ "pista P3 retomada em FB1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.96
+   }
+  },
+  "usage": {
+   "input_tokens": 977,
+   "output_tokens": 21
+  }
+ },
+ "pista P4 plantada em V1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "aparece": {
+    "type": "noul",
+    "noul": 0.86
+   }
+  },
+  "usage": {
+   "input_tokens": 1333,
+   "output_tokens": 22
+  }
+ },
+ "pista P4 retomada em FB2": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.96
+   }
+  },
+  "usage": {
+   "input_tokens": 967,
+   "output_tokens": 21
+  }
+ },
+ "pista P5 plantada em V1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "aparece": {
+    "type": "noul",
+    "noul": 0.97
+   }
+  },
+  "usage": {
+   "input_tokens": 1331,
+   "output_tokens": 22
+  }
+ },
+ "pista P5 retomada em V2B": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.92
+   }
+  },
+  "usage": {
+   "input_tokens": 1185,
+   "output_tokens": 21
+  }
+ },
+ "pista P5 retomada em FB1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.96
+   }
+  },
+  "usage": {
+   "input_tokens": 980,
+   "output_tokens": 21
+  }
+ },
+ "pista P6 plantada em V2B": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "aparece": {
+    "type": "noul",
+    "noul": 0.95
+   }
+  },
+  "usage": {
+   "input_tokens": 1193,
+   "output_tokens": 22
+  }
+ },
+ "pista P6 retomada em FB1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.96
+   }
+  },
+  "usage": {
+   "input_tokens": 980,
+   "output_tokens": 21
+  }
+ },
+ "pista P7 plantada em V1": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "aparece": {
+    "type": "noul",
+    "noul": 0.96
+   }
+  },
+  "usage": {
+   "input_tokens": 1324,
+   "output_tokens": 22
+  }
+ },
+ "pista P7 retomada em FA2": {
+  "model": "jev-1.14.0",
+  "answers": {
+   "retoma": {
+    "type": "noul",
+    "noul": 0.96
+   }
+  },
+  "usage": {
+   "input_tokens": 985,
+   "output_tokens": 21
+  }
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "B01": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:53+00:00",
+   "texto_sha": "869b3e0358f542e99797a57a487bb29c33b3dbcfd37967baa08398389e73da51"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "72 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:53+00:00",
+   "texto_sha": "869b3e0358f542e99797a57a487bb29c33b3dbcfd37967baa08398389e73da51"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.76 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:53+00:00",
+   "texto_sha": "869b3e0358f542e99797a57a487bb29c33b3dbcfd37967baa08398389e73da51"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 4: recap fiel ao V2B, apresenta a Laura como filha do passageiro e a dívida; 'her dad's boss' sem ambiguidade; sem spoiler; 72 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:11:34+00:00",
+   "texto_sha": "869b3e0358f542e99797a57a487bb29c33b3dbcfd37967baa08398389e73da51"
+  }
+ },
+ "B02": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "cef62d138a3fabebd8e909a3e1c3c33342dc014eda8f708446e53ca2eed30faa"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "47 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "cef62d138a3fabebd8e909a3e1c3c33342dc014eda8f708446e53ca2eed30faa"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.79 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "cef62d138a3fabebd8e909a3e1c3c33342dc014eda8f708446e53ca2eed30faa"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "P3 retomada; revela o pedaço 2 (caixa paralelo e queixa antes)",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:18+00:00",
+   "texto_sha": "cef62d138a3fabebd8e909a3e1c3c33342dc014eda8f708446e53ca2eed30faa"
+  }
+ },
+ "B03": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "be6fb35bf70717a008ee25af57ce3f69052e745bb67b63284214517c5a5cd07a"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "60 s estimados (faixa 42–78 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "be6fb35bf70717a008ee25af57ce3f69052e745bb67b63284214517c5a5cd07a"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.83 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "be6fb35bf70717a008ee25af57ce3f69052e745bb67b63284214517c5a5cd07a"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Rodada 2: P5 retomada com a ironia certa (a bolsa chegou à polícia e soltou o Harold); 60 s",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T22:03:28+00:00",
+   "texto_sha": "be6fb35bf70717a008ee25af57ce3f69052e745bb67b63284214517c5a5cd07a"
+  }
+ },
+ "CTA": {
+  "extenso": {
+   "ok": true,
+   "nota": "ok",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "7d03bcb62d60b77c0cd94a707c3013f053a4bd796142c8eb86af4df287007673"
+  },
+  "tempo": {
+   "ok": true,
+   "nota": "17 s estimados (faixa 8–30 s)",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "7d03bcb62d60b77c0cd94a707c3013f053a4bd796142c8eb86af4df287007673"
+  },
+  "jev": {
+   "ok": true,
+   "nota": "humano 0.75 (corte 0.75); motivos []; regras []",
+   "por": "portoes.py",
+   "quando": "2026-11-01T22:10:54+00:00",
+   "texto_sha": "7d03bcb62d60b77c0cd94a707c3013f053a4bd796142c8eb86af4df287007673"
+  },
+  "revisor_texto": {
+   "ok": true,
+   "nota": "Contador, convite e mapa; teaser do pendrive sem entregar",
+   "por": "revisor-texto",
+   "quando": "2026-11-01T21:58:18+00:00",
+   "texto_sha": "7d03bcb62d60b77c0cd94a707c3013f053a4bd796142c8eb86af4df287007673"
+  }
+ }
+}

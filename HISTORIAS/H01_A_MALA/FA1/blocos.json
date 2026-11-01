@@ -2,23 +2,23 @@
  "blocos": [
   {
    "id": "B01",
-   "narracao": "",
-   "visual": "Kai aceita; Vince rasga o forro e acha o pendrive ('The cash was just bait')"
+   "narracao": "Short version, if you just got here. I was three weeks behind on my rental car when a passenger left two hundred grand in my trunk. His daughter, Laura, begged me to keep it safe. Then a guy named Vince slid into my booth at an all-night diner and offered me fifty grand for it. I took the money. I'm not proud of it, but I promised you the truth. Vince counted out fifty thousand dollars in the diner parking lot, in envelopes, like he'd done it a hundred times. Laura was still on the phone by her car. She didn't see me hand him the bag. Or maybe she did. I never asked. Vince didn't leave right away. He set the duffel on the hood of his gray sedan, took out a pocketknife, and cut open the lining. That crooked stitching I'd noticed at the gas station. He reached inside and pulled out a little thumb drive. Then he held his phone to his ear. \"Got it, boss,\" he said. \"The cash was just bait.\" And he looked over at me and smiled, like we were friends now.",
+   "visual": "Recapitulação (mapa da árvore com o caminho aceso) + Kai aceita; envelopes no estacionamento; Vince rasga o forro com um canivete (P2) e acha o pendrive; 'The cash was just bait'"
   },
   {
    "id": "B02",
-   "narracao": "",
-   "visual": "Hospital e carro pagos; noticiário com o Harold preso"
+   "narracao": "Bait. All that cash, and what they really wanted was a tiny piece of plastic. And I'd just sold it for fifty grand. On Monday morning, I caught up on the car. By the end of the month, I'd paid off the hospital too. I wrote \"paid in full\" across that bill and stuck it back on the fridge, because I thought it would feel good. It didn't. Two weeks later, I saw Harold on the local news. Older guy, wrinkled suit, walking into a courthouse. \"Accountant charged with stealing from grocery chain.\" The money he supposedly stole was the money from my car. And whatever could have proved he didn't was sitting in Vince's pocket. Because of me.",
+   "visual": "O peso da escolha: carro e hospital pagos, 'paid in full' na geladeira; o noticiário com o Harold entrando no tribunal"
   },
   {
    "id": "B03",
-   "narracao": "",
-   "visual": "Fecho: 'Some debts you pay off with money. That one, I'm still paying.' + Ending 1 of 4"
+   "narracao": "I still drive. I bought my own car eventually, and it's all paid for. Sometimes a passenger checks the back window one too many times, and I think about Harold, leaning forward from the back seat, telling me he was sorry. Months later, I got a text from a number I didn't know. It was Laura. \"He's out on bail,\" she wrote. \"He's not angry at you. He says he put you in an impossible spot.\" I read that message about a hundred times. At red lights, in line for coffee, at two in the morning when I couldn't sleep. I started typing back, like, five different times, and deleted every one. I think Harold was apologizing for what he'd dropped on me that night. He had no idea I'd be the one who owed him an apology. Some debts you pay off with money. That one, I'm still paying.",
+   "visual": "Meses depois: carro próprio, a mensagem da Laura, o fecho"
   },
   {
    "id": "CTA",
-   "narracao": "",
-   "visual": "contador de finais + convite para os outros caminhos"
+   "narracao": "That's ending one of four. And trust me, there's a lot you still don't know. Like what Harold was actually running from. Go back and pick a different path to find out. The full map is pinned in the comments.",
+   "visual": "Contador 'Ending 1 of 4' + mapa com os outros finais trancados"
   }
  ]
 }

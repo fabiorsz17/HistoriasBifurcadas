@@ -2,23 +2,23 @@
  "blocos": [
   {
    "id": "B01",
-   "narracao": "",
-   "visual": "Kai conta tudo"
+   "narracao": "Short version, if you just got here. I was three weeks behind on my rental car when a passenger left two hundred grand in my trunk, and I took it to the police. The passenger's daughter, Laura, showed up swearing her dad didn't steal it. Then her dad's boss got on speakerphone and offered me twenty grand to sign a statement and go home. But his theft report had a problem. I didn't sign. \"Before anybody signs anything,\" I said, \"can I show you something?\" I held my phone up to Detective Bell. The ride receipt. Pickup at ten-forty. \"Your report was filed at nine-ten,\" I said. \"But at nine-ten, he still had the bag. He put it in my trunk an hour and a half later. So how did Mister Brandt already know it was missing?\" The speakerphone went very quiet. You could hear somebody breathing on the other end. Then Vince reached over, switched it off, and said, \"Mister Brandt's attorney will be in touch.\" Detective Bell didn't even look at him. She was looking at me, the way you look at somebody who just made your night a lot longer.",
+   "visual": "Recapitulação (mapa da árvore com o caminho aceso) + Kai não assina; mostra o recibo da corrida (P6); o viva-voz fica em silêncio; Vince desliga"
   },
   {
    "id": "B02",
-   "narracao": "",
-   "visual": "A detetive cruza nine-ten com o recibo do app e o carimbo BM"
+   "narracao": "She pulled one stack of bills out of the bag and turned it over under the desk lamp. The paper band was stamped with two letters. B M. \"Brandt Markets,\" she said. \"Funny. Banks don't wrap their cash with a grocery store's initials. Somebody wraps their own. Cash that never went through a bank.\" Laura made this sound, half laugh, half sob. Vince picked up his phone and walked out without another word. Turns out, that's exactly what Harold had found. Years of cash that never showed up in the company's books. He was on his way to tell federal investigators. And his boss had filed a theft report first, so that when Harold finally talked, nobody would ever believe him.",
+   "visual": "A detetive vira um maço sob a luz: a cinta 'BM' (P3); dinheiro que nunca passou por banco; Vince sai; o que o Harold tinha descoberto"
   },
   {
    "id": "B03",
-   "narracao": "",
-   "visual": "Harold solto, Brandt investigado; sem recompensa; 'I lost the car. But I slept fine.' + Ending 3 of 4"
+   "narracao": "Harold was released the next afternoon. Laura had told me that if the bag got to the police that night, her dad would go to prison. It got there. And that's what got him out. Brandt's lawyers got busy, and the investigators got busier. The money? Evidence. Locked in a room somewhere, with no reward for anybody. On Monday morning, the rental company came and took the car. A guy with a clipboard walked around it twice, checked the mileage, and drove off without saying much. I stood in the parking lot and watched it turn the corner. No car. No job. The hospital bill still on my fridge. Later, Laura texted me. Just a photo of her dad at his kitchen table, eating a plate of spaghetti, and the words \"thank you.\" I must have looked at it for ten minutes. That night, for the first time in months, I didn't lie awake doing math. I lost the car. But I slept fine.",
+   "visual": "Harold solto; o dinheiro apreendido como prova, sem recompensa; segunda-feira, o carro recolhido; 'I lost the car. But I slept fine.'"
   },
   {
    "id": "CTA",
-   "narracao": "",
-   "visual": "contador de finais + convite para os outros caminhos"
+   "narracao": "That's ending three of four. Okay, so now you know where the money came from. But there was something in that bag worth way more than cash, and I haven't told you about it yet. Go back and pick another path. The full map is pinned in the comments.",
+   "visual": "Contador 'Ending 3 of 4' + mapa"
   }
  ]
 }

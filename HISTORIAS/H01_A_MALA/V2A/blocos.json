@@ -2,22 +2,22 @@
  "blocos": [
   {
    "id": "B01",
-   "narracao": "",
-   "visual": "Recapitulação + mapa; Laura no diner; oferta de five thousand dollars e pedido de guardar a bolsa até a advogada"
+   "narracao": "So, short version. Two hundred thousand dollars in my trunk, and a woman named Laura on the phone, begging me not to go to the police. I didn't. I drove to the diner she picked instead, with the bag riding shotgun and my eyes glued to the mirror. She was in a back booth, still in her scrubs, and her coffee looked cold. \"I'm Laura,\" she said. \"I'm a nurse. I came straight from my shift.\" Her dad, Harold, had done the books at Brandt Markets, the grocery chain, for twenty years. Earlier that night, he'd sent her one text. \"If anything happens, find the driver. His name is Kai. Here's his number. You can trust him.\" And then his phone went dead. \"Why would he trust me?\" I said. \"I'm just the rideshare guy. I can't even make the payments on my rental. I drove him to the airport. That's it.\" She just looked at me and said, \"I was hoping you could tell me.\"",
+   "visual": "Recapitulação + mapa; o diner de madrugada; Laura de scrubs na mesa do fundo; a mensagem do Harold"
   },
   {
    "id": "B02",
-   "narracao": "",
-   "visual": "Vince entra; Laura vai ao banheiro; oferta de fifty grand ('She's lying to you')"
+   "narracao": "She wanted me to hang on to the bag until morning, so her lawyer could take it. \"Just until eight,\" she said. \"I'll give you five thousand dollars for your trouble. My own money.\" Five grand. That would cover the car, with some left over. I was literally opening my mouth to say yes when the bell over the door jingled. A guy in a gray jacket and a baseball cap walked in, totally relaxed, and took a seat at the counter. Laura went white. \"That's him,\" she whispered. \"He works for Brandt. He's been following me since I left the hospital. I need a minute.\" She slid out of the booth and headed for the restroom. And the guy in the gray jacket picked up his coffee, strolled over, and sat down right where she'd been. \"Kai, right?\" he said. \"I'm Vince. Let's talk like adults.\"",
+   "visual": "A oferta da Laura (cinco mil); o sino da porta; Vince de jaqueta cinza e boné; Laura: 'He's been following me since the hospital'; Vince senta no lugar dela"
   },
   {
    "id": "B03",
-   "narracao": "",
-   "visual": "A dúvida: queixa de furto no celular do Vince; Laura chorando ao telefone pela janela"
+   "narracao": "\"Fifty grand,\" Vince said, \"and the bag leaves with me. Cash, tonight. Nobody ever knows you were involved.\" I asked him why I should believe him over her. He just turned his phone around. A theft report, with Harold Pruitt's name on it. \"Her father stole from my boss,\" he said. \"She's trying to get the money back before the police do. She's lying to you, Kai. You seem like a decent guy. Don't go down with them.\" I looked past him, out the window. Laura was in the parking lot now, on the phone, crying, one hand over her mouth. Fifty thousand dollars. The hospital, the car, the rest of the year, all taken care of with one handshake. Or a nurse crying in a parking lot, and a bag I didn't understand.",
+   "visual": "A dúvida: a oferta de cinquenta mil; o boletim no celular do Vince; pela janela, Laura chorando ao telefone; selo 'Your choice is coming'"
   },
   {
    "id": "ESCOLHA",
-   "narracao": "",
+   "narracao": "So, fifty grand in cash, or a nurse crying in a parking lot. Your call. If you think I should take the fifty grand, tap the video on the left. If I should run with Laura and the bag, tap the one on the right. And you can always come back and try the other path.",
    "visual": "TelaEscolha (20 s)"
   }
  ]

@@ -1,0 +1,560 @@
+{
+ "_leia": "Registro da trava da ElevenLabs (ORQ-001). Não editar à mão.",
+ "episodios": {
+  "H01_A_MALA/V1": {
+   "teto_creditos": 4600,
+   "autorizacoes": [
+    {
+     "quando": "2026-11-01T22:48:56+00:00",
+     "teto": 1000,
+     "ordem_do_usuario": "Sim, testar o B01 (teto de 1.000 créditos para o V1, 01/11/2026)"
+    },
+    {
+     "quando": "2026-11-01T23:13:29+00:00",
+     "teto": 4600,
+     "ordem_do_usuario": "Sim, autorizo (tetos com 10% de folga, 01/11/2026)"
+    }
+   ],
+   "blocos": {
+    "B01": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T22:49:03+00:00",
+       "caracteres": 636,
+       "texto_sha": "2d55d7f55aeed9a6febe32d0fadff304a94a4d27192ed52a0eb13f9aca4081de",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T22:50:52+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V1\\audio\\B01-v4.mp3",
+       "audio_sha256": "1bc2da9b4483a355172ec9b8c507142c816a87662534c29614d01f9530ffeb3f",
+       "nota": "Marcada como concluida pelo usuário (\"Sim, marcar\", 01/11/2026): o áudio e o alinhamento foram salvos, mas um bug de caminho no registro impediu a marcação automática; bug corrigido."
+      }
+     ]
+    },
+    "B02": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:13:39+00:00",
+       "caracteres": 775,
+       "texto_sha": "bd689f3020c5c9500137927f640ae90feba40cdc40fc2cdf0a7a191c93ca286e",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:13:50+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V1\\audio\\B02-v4.mp3",
+       "audio_sha256": "aa3d10373be7bbe564050800d9ffa8ddcefdb1e5134f063b9ffd4369e5b0f733"
+      }
+     ]
+    },
+    "B03": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:13:52+00:00",
+       "caracteres": 908,
+       "texto_sha": "89be671942c6e980cac967cb70dc2577b8426effa738271931dd920437b04df9",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:14:04+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V1\\audio\\B03-v4.mp3",
+       "audio_sha256": "a2665af6acd68dda49cc6006b92b902376e41b60094f075a1cce63fe465276b8"
+      }
+     ]
+    },
+    "B04": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:14:06+00:00",
+       "caracteres": 734,
+       "texto_sha": "6b58a28fc6391a5c748eaa58f2ca5685902c66f8990bafd3963ff765551738fe",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:14:16+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V1\\audio\\B04-v4.mp3",
+       "audio_sha256": "8ac63e9cc9559e10ac11175ba92be12765eb5c296d628be7d94aaa26cc4277ca"
+      }
+     ]
+    },
+    "B05": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:14:18+00:00",
+       "caracteres": 775,
+       "texto_sha": "a79e6189a2e7726519d6da65027b90324580a61ba9c853fd221383796d3ac83a",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:14:28+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V1\\audio\\B05-v4.mp3",
+       "audio_sha256": "99701ee1bfbc2042fd6ea318c2435be51aca473e4933bd5270aa8a81625e1502"
+      }
+     ]
+    },
+    "ESCOLHA": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:14:30+00:00",
+       "caracteres": 296,
+       "texto_sha": "46a2abfa92def1a252d5362ce56949c3297bf82f66df929acf58521c36c0ae7e",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:14:35+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V1\\audio\\ESCOLHA-v4.mp3",
+       "audio_sha256": "9600cf8951dec969572d049bb6a3cde6c700b3db635c537cea7f90dd53f960b3"
+      }
+     ]
+    }
+   }
+  },
+  "H01_A_MALA/V2A": {
+   "teto_creditos": 2900,
+   "autorizacoes": [
+    {
+     "quando": "2026-11-01T23:13:29+00:00",
+     "teto": 2900,
+     "ordem_do_usuario": "Sim, autorizo (tetos com 10% de folga, 01/11/2026)"
+    }
+   ],
+   "blocos": {
+    "B01": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:14:37+00:00",
+       "caracteres": 863,
+       "texto_sha": "a8d1e9da8564c9c8b8c693bd53e7b22848583795e8eacb9c42b23cbf77692ace",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:14:50+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2A\\audio\\B01-v4.mp3",
+       "audio_sha256": "7ee89483bdc4325f716261cc54a81c692f488e6265566adb879965509d69976d"
+      }
+     ]
+    },
+    "B02": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:14:52+00:00",
+       "caracteres": 778,
+       "texto_sha": "f757900ba5264125676255707843493805acd561ca3f8297187e70c85f7eddeb",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:15:03+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2A\\audio\\B02-v4.mp3",
+       "audio_sha256": "5f093ad6b325e6575beb9d9416cb96ebac19b4f9720fcf58b3f523c5de807a4f"
+      }
+     ]
+    },
+    "B03": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:15:05+00:00",
+       "caracteres": 706,
+       "texto_sha": "a8472c76dffdfa180cc525e0cfa221bfb5d4f7380eda249bc8fae77d7ac907af",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:15:15+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2A\\audio\\B03-v4.mp3",
+       "audio_sha256": "9077375eae7005d06db1d739fdb04f19e49fa00c4dfbcf7ab76b494cf05e2b0c"
+      }
+     ]
+    },
+    "ESCOLHA": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:15:17+00:00",
+       "caracteres": 261,
+       "texto_sha": "3d999b67e2edd98e93377a3c23bd7731a85b23c248624871bba3aa9797557051",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:15:21+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2A\\audio\\ESCOLHA-v4.mp3",
+       "audio_sha256": "4f5c1e078e99648f68a8ce33064db1ef805f43edcae3547fe1931f7385948e3a"
+      }
+     ]
+    }
+   }
+  },
+  "H01_A_MALA/V2B": {
+   "teto_creditos": 3900,
+   "autorizacoes": [
+    {
+     "quando": "2026-11-01T23:13:29+00:00",
+     "teto": 3900,
+     "ordem_do_usuario": "Sim, autorizo (tetos com 10% de folga, 01/11/2026)"
+    }
+   ],
+   "blocos": {
+    "B01": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:15:23+00:00",
+       "caracteres": 927,
+       "texto_sha": "3a42b6dd5afdfb42c94168a8a7c21f0d936475c6a275454ee25f7eccdd79077e",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:15:35+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2B\\audio\\B01-v4.mp3",
+       "audio_sha256": "42d39137f84005c2f48879cbcc5a6165143ffdf1b4c2d2b30aff5eb7c792e6ef"
+      }
+     ]
+    },
+    "B02": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:15:36+00:00",
+       "caracteres": 933,
+       "texto_sha": "7efd481e758d9321d56f21533bf098469465ec40427d8ce18de2a5b9909953f6",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:15:48+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2B\\audio\\B02-v4.mp3",
+       "audio_sha256": "e698afe51ac0215bc36289f2abd5e3d85d7b3cbb06e5619c0b5c54e7f6fb6ba3"
+      }
+     ]
+    },
+    "B03": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:15:49+00:00",
+       "caracteres": 677,
+       "texto_sha": "6a08cb8128d0b4842f464e8350a26b921e7986f5e3efb662ea7c0f1fd233c768",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:16:01+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2B\\audio\\B03-v4.mp3",
+       "audio_sha256": "de3014287ffa1308e6023c1e65af223b6cf2d1a22228b2b8f7962d3191617156"
+      }
+     ]
+    },
+    "B04": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:16:02+00:00",
+       "caracteres": 688,
+       "texto_sha": "84229d68e87f768e73345fa11744ca11204ad380a3c1e1375eeb044186262660",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:16:12+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2B\\audio\\B04-v4.mp3",
+       "audio_sha256": "28c59bb346d54b9fb67a18aa9faec5210a312d3ac0f1543f81fc42b64b474046"
+      }
+     ]
+    },
+    "ESCOLHA": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:16:14+00:00",
+       "caracteres": 269,
+       "texto_sha": "a7307ce42568137d08ca546b75467cdf4d1b29bcff57af199a12ab92428719e6",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:16:18+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\V2B\\audio\\ESCOLHA-v4.mp3",
+       "audio_sha256": "1804f44a974cfa27151f79749a988588c75c6479bbaea6bfdb4a148e00864a00"
+      }
+     ]
+    }
+   }
+  },
+  "H01_A_MALA/FA1": {
+   "teto_creditos": 2900,
+   "autorizacoes": [
+    {
+     "quando": "2026-11-01T23:13:30+00:00",
+     "teto": 2900,
+     "ordem_do_usuario": "Sim, autorizo (tetos com 10% de folga, 01/11/2026)"
+    }
+   ],
+   "blocos": {
+    "B01": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:16:20+00:00",
+       "caracteres": 961,
+       "texto_sha": "c222723f74aea26d3991e266d17569b395e19a63547457f7200a42f0656d69e6",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:16:34+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA1\\audio\\B01-v4.mp3",
+       "audio_sha256": "a96bbdc84dc0c6d261d0ea7fd8c99d8c5c09eaf336dfda030abdd21bb23a3b07"
+      }
+     ]
+    },
+    "B02": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:16:36+00:00",
+       "caracteres": 637,
+       "texto_sha": "d14ea0df239679c7fcacf12506ea4c2a89c86a1fa7854c15fb3046522a7b3b71",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:16:44+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA1\\audio\\B02-v4.mp3",
+       "audio_sha256": "edfe3c4e90ac67abe12ef7757e0a96d873c254636a72723f3c2ea73a8a9608a3"
+      }
+     ]
+    },
+    "B03": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:16:46+00:00",
+       "caracteres": 775,
+       "texto_sha": "a2a7fa97762703e951330f13e7c6796d0994973b3bc360412186fb247e1586d3",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:16:57+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA1\\audio\\B03-v4.mp3",
+       "audio_sha256": "3b4a73828cac8465cc1f9dd61ff06175f5a869bc643c58bad0a7ed7fdab811ba"
+      }
+     ]
+    },
+    "CTA": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:16:59+00:00",
+       "caracteres": 207,
+       "texto_sha": "53116cb612b76f96fb31e1c79b97c29e03d25bee6d6eca48385460bf8843a473",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:17:02+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA1\\audio\\CTA-v4.mp3",
+       "audio_sha256": "26d3b5b12fdbc48533a6a11df0bf510cb05b9ecb373632e58be632b926e6170f"
+      }
+     ]
+    }
+   }
+  },
+  "H01_A_MALA/FA2": {
+   "teto_creditos": 3300,
+   "autorizacoes": [
+    {
+     "quando": "2026-11-01T23:13:30+00:00",
+     "teto": 3300,
+     "ordem_do_usuario": "Sim, autorizo (tetos com 10% de folga, 01/11/2026)"
+    }
+   ],
+   "blocos": {
+    "B01": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:17:04+00:00",
+       "caracteres": 946,
+       "texto_sha": "72cb056bb515792ba6e56927c85f76bb1cb602c6b703f70b074828acce029cbe",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:17:16+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA2\\audio\\B01-v4.mp3",
+       "audio_sha256": "7d27abbc85117bf266ba7aa7a0ccc04a58d0e23d1ccdc773fca3108101b84a62"
+      }
+     ]
+    },
+    "B02": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:17:18+00:00",
+       "caracteres": 1003,
+       "texto_sha": "86d56fc58250dc41b33f73c74aa8f42ce48b30bcc066e984614407104f5adef4",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:17:32+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA2\\audio\\B02-v4.mp3",
+       "audio_sha256": "e72d41a70a41a2b763085112125dfc9bee4e9b51ee0018f00100c79968d83bc4"
+      }
+     ]
+    },
+    "B03": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:17:34+00:00",
+       "caracteres": 787,
+       "texto_sha": "df3ef27511b9cbc261239c108e3899e3bb6b1b80940adaf62d9cd98f5daa4913",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:17:44+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA2\\audio\\B03-v4.mp3",
+       "audio_sha256": "7368d6f2f8d7cb3bafb8ca2517315062493b6912d7b82901b4f337c7484dc598"
+      }
+     ]
+    },
+    "CTA": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:17:46+00:00",
+       "caracteres": 190,
+       "texto_sha": "aaf687de9ebb92c67c0815d584bf00f5ba9fcc2b75e0af48f4da3c3cba59cd70",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:17:49+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FA2\\audio\\CTA-v4.mp3",
+       "audio_sha256": "8796cfd95c766d9ac420355d8102cf5b898bb1e71317b3620fccefecf85c4ea9"
+      }
+     ]
+    }
+   }
+  },
+  "H01_A_MALA/FB1": {
+   "teto_creditos": 3200,
+   "autorizacoes": [
+    {
+     "quando": "2026-11-01T23:13:30+00:00",
+     "teto": 3200,
+     "ordem_do_usuario": "Sim, autorizo (tetos com 10% de folga, 01/11/2026)"
+    }
+   ],
+   "blocos": {
+    "B01": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:17:51+00:00",
+       "caracteres": 1037,
+       "texto_sha": "869b3e0358f542e99797a57a487bb29c33b3dbcfd37967baa08398389e73da51",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:18:03+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB1\\audio\\B01-v4.mp3",
+       "audio_sha256": "c90d0f8ceb688a811aaebea10bb73723a7e8ec64cae05005a86c8e07176017cd"
+      }
+     ]
+    },
+    "B02": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:18:05+00:00",
+       "caracteres": 672,
+       "texto_sha": "cef62d138a3fabebd8e909a3e1c3c33342dc014eda8f708446e53ca2eed30faa",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:18:14+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB1\\audio\\B02-v4.mp3",
+       "audio_sha256": "cb173376e31105f1bc5096895c276f6db6ce6841f3949137aa48212f81b5cde9"
+      }
+     ]
+    },
+    "B03": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:18:16+00:00",
+       "caracteres": 864,
+       "texto_sha": "be6fb35bf70717a008ee25af57ce3f69052e745bb67b63284214517c5a5cd07a",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:18:28+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB1\\audio\\B03-v4.mp3",
+       "audio_sha256": "25fd4e6f4ad6c16d4032e39c1dd857c117402b266b4efe65a4c4fdeb84d9b865"
+      }
+     ]
+    },
+    "CTA": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:18:29+00:00",
+       "caracteres": 247,
+       "texto_sha": "7d03bcb62d60b77c0cd94a707c3013f053a4bd796142c8eb86af4df287007673",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:18:33+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB1\\audio\\CTA-v4.mp3",
+       "audio_sha256": "5fb89c7fd5542c5957adb12c825f80a2fc2bb8e73676ae01bc06a06e16d9c681"
+      }
+     ]
+    }
+   }
+  },
+  "H01_A_MALA/FB2": {
+   "teto_creditos": 3100,
+   "autorizacoes": [
+    {
+     "quando": "2026-11-01T23:13:30+00:00",
+     "teto": 3100,
+     "ordem_do_usuario": "Sim, autorizo (tetos com 10% de folga, 01/11/2026)"
+    }
+   ],
+   "blocos": {
+    "B01": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:18:35+00:00",
+       "caracteres": 1056,
+       "texto_sha": "19808dafae1b355277731d9174abd9a26fac3e611336f80e085a6bcb264cad96",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:18:48+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB2\\audio\\B01-v4.mp3",
+       "audio_sha256": "c6441e1f98e4bece4d048065b7a5339a86882bfcdbb1812d3c63aca15afe9c4f"
+      }
+     ]
+    },
+    "B02": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:18:50+00:00",
+       "caracteres": 731,
+       "texto_sha": "4b6b67fe91f120446246028a277ac7fcb443b608abc5d14fd1d4e4998f88fb62",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:19:00+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB2\\audio\\B02-v4.mp3",
+       "audio_sha256": "4021aa2eb5e00e35aefb70a91bcb95acd345a80521e264643d9231fea149c82a"
+      }
+     ]
+    },
+    "B03": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:19:02+00:00",
+       "caracteres": 709,
+       "texto_sha": "5c82603cf089cc3c12d13ad791b70d5564620d5b8ce5c75a646a9d8388e1720f",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:19:12+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB2\\audio\\B03-v4.mp3",
+       "audio_sha256": "0045eb365768bc1bedc8935d7423588ecc741fb5f8925102dd7489109b634db9"
+      }
+     ]
+    },
+    "CTA": {
+     "geracoes": [
+      {
+       "tipo": "real",
+       "status": "concluida",
+       "inicio": "2026-11-01T23:19:13+00:00",
+       "caracteres": 237,
+       "texto_sha": "137e753426c56961a46d2045fe745fe1fc010b598508a70330c6d3e03baf92fa",
+       "modelo": "eleven_v4",
+       "fim": "2026-11-01T23:19:17+00:00",
+       "audio": "HISTORIAS\\H01_A_MALA\\FB2\\audio\\CTA-v4.mp3",
+       "audio_sha256": "b5f03e3243a2cc74a6477a2c116e02ab05db8927d085bef08e08a0d19d0a8122"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

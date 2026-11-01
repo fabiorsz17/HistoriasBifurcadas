@@ -38,6 +38,7 @@ Cada nó também recebe `audio/`, `portoes_voz.json` e, na publicação, `PUBLIC
 `blocos.json` de cada nó: `{"blocos": [{"id": "B01", "narracao": "...", "tags": "...", "visual": "storyboard: ação, câmera, sons"}, ..., {"id": "ESCOLHA", ...}]}`. O bloco `ESCOLHA` (8 a 30 s) fecha todo vídeo que bifurca; os finais terminam num bloco `CTA` (convite a ver os outros finais).
 
 ## Regras de história
+0. **Escolhas e consequências (TEM-001), o tema de toda história:** cada opção tem um ganho e um preço reais; a consequência nasce da escolha (nunca do acaso nem de um castigo do roteiro), é proporcional e crível; o final mostra o que a escolha custou e o que ela trouxe, sem sermão. O espectador tira a própria lição.
 1. **O segredo em pedaços:** cada final é um desfecho completo **e** revela um pedaço diferente do segredo. Só quem vê os 4 entende tudo.
 2. **Escolha equilibrada:** as duas opções tentam e as duas custam algo. Nenhuma é a "certa".
 3. **Parar no auge:** o vídeo que bifurca termina no momento de maior tensão.

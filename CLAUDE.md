@@ -1,6 +1,6 @@
 # Histórias Bifurcadas — guia do Claude Code
 
-Canal de histórias animadas em árvore para o YouTube, **em inglês americano, com costumes americanos num país neutro e respeito total a crença, raça, orientação sexual e demais traços** (LANG-001, CEN-001, CUL-001, RES-001; respostas ao usuário em português): o V1 termina numa escolha, cada escolha leva a um vídeo, e cada um desses leva a dois finais (7 vídeos e 4 finais por história). Personagem de traço simples e cabeça grande, cenários ricos, câmera viva, 16:9 em 2K. Monetização desde o início, então as regras do YouTube valem para tudo.
+Canal de histórias animadas em árvore para o YouTube sobre **escolhas e consequências** (TEM-001), **em inglês americano, com costumes americanos num país neutro e respeito total a crença, raça, orientação sexual e demais traços** (LANG-001, CEN-001, CUL-001, RES-001; respostas ao usuário em português): o V1 termina numa escolha, cada escolha leva a um vídeo, e cada um desses leva a dois finais (7 vídeos e 4 finais por história). Personagem de traço simples e cabeça grande, cenários ricos, câmera viva, 16:9 em 2K. Monetização desde o início, então as regras do YouTube valem para tudo.
 
 Regras inegociáveis: [AGENTS.md](AGENTS.md). Lições: [LICOES.md](LICOES.md) (ler no início de toda tarefa). Passo a passo de produção: skill `bifurcadas-arvore` (`.claude/skills/`). Histórico: [CHECKPOINTS.md](CHECKPOINTS.md). Decisões: [GOVERNANCA/DECISOES.md](GOVERNANCA/DECISOES.md).
 

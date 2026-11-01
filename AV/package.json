@@ -1,0 +1,20 @@
+{
+  "name": "historias-bifurcadas-av",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "dev": "remotion studio src/index.jsx --no-open",
+    "compositions": "remotion compositions src/index.jsx"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.537",
+    "@remotion/cli": "4.0.537",
+    "@remotion/sfx": "4.0.537",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.537",
+    "roughjs": "^4.6.6"
+  }
+}

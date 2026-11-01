@@ -1,0 +1,37 @@
+{
+  "titulo": "The Bag in the Trunk",
+  "idioma": "en",
+  "premissa": "Kai, a rideshare driver buried in debt, finds a bag with two hundred thousand dollars in the trunk of his rented car. A woman calls and begs him not to take it to the police, because then her father goes to prison.",
+  "segredo": "Harold Pruitt, an accountant at Brandt Markets, hid proof of his boss's off-the-books cash on a thumb drive sewn into the lining of a bag holding two hundred thousand dollars of that cash, which served as bait. Followed by Vince at the airport, he deliberately chose Kai's car, the only one without the rideshare sticker, and left the bag in it. Russell Brandt filed a false theft report to get Harold arrested before he could reach federal investigators. Harold also hid a second copy of the proof under the seat of Kai's car: Kai was his plan B.",
+  "nos": {
+    "V1": {
+      "titulo": "The Bag",
+      "filhos": {"A": "V2A", "B": "V2B"},
+      "escolha": {"pergunta": "What should Kai do with the bag?", "A": "Meet the woman who called", "B": "Take the bag to the police"}
+    },
+    "V2A": {
+      "titulo": "The All-Night Diner",
+      "pai": "V1",
+      "filhos": {"A": "FA1", "B": "FA2"},
+      "escolha": {"pergunta": "Vince offers fifty thousand dollars for the bag. Now what?", "A": "Take the fifty grand", "B": "Run with Laura and the bag"}
+    },
+    "V2B": {
+      "titulo": "The Night Desk",
+      "pai": "V1",
+      "filhos": {"A": "FB1", "B": "FB2"},
+      "escolha": {"pergunta": "Sign for the twenty thousand dollar reward, or speak up?", "A": "Tell them everything", "B": "Sign, take the reward, stay out of it"}
+    },
+    "FA1": {"titulo": "The Lining", "pai": "V2A", "revela": "What was in the lining of the bag: a thumb drive with the proof. The cash was just bait."},
+    "FA2": {"titulo": "The Car Without a Sticker", "pai": "V2A", "revela": "Harold chose Kai's car on purpose, because it was the only one without the rideshare sticker, to get the bag away from Vince at the airport."},
+    "FB1": {"titulo": "Nine-Ten", "pai": "V2B", "revela": "The money is Russell Brandt's own off-the-books cash, and he filed a false theft report before the money ever left, to frame Harold."},
+    "FB2": {"titulo": "Under the Seat", "pai": "V2B", "revela": "Harold hid a second copy of the proof under the seat of Kai's car: Kai was always his plan B."}
+  },
+  "pistas": [
+    {"id": "P1", "plantada_em": "V1", "descricao": "Harold thanks Kai by name, apologizes for no clear reason, and mentions he canceled two cars before Kai's.", "retomada_em": ["FA2", "FB2"]},
+    {"id": "P2", "plantada_em": "V1", "descricao": "The bag is far too heavy, and the lining has fresh, crooked stitching.", "retomada_em": ["FA1"]},
+    {"id": "P3", "plantada_em": "V1", "descricao": "The paper bands around the cash are stamped with the letters B and M.", "retomada_em": ["FB1"]},
+    {"id": "P4", "plantada_em": "V1", "descricao": "During the ride, Harold bends down and reaches under the passenger seat, saying he dropped his pen.", "retomada_em": ["FB2"]},
+    {"id": "P5", "plantada_em": "V1", "descricao": "Laura warns that if the bag reaches the police station tonight, her father goes to prison.", "retomada_em": ["V2B", "FB1"]},
+    {"id": "P6", "plantada_em": "V2B", "descricao": "The theft report was filed at nine-ten p.m., before Kai's ride even started.", "retomada_em": ["FB1"]}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+ "blocos": [
+  {
+   "id": "B01",
+   "narracao": "",
+   "visual": "Kai aceita; Vince rasga o forro e acha o pendrive ('The cash was just bait')"
+  },
+  {
+   "id": "B02",
+   "narracao": "",
+   "visual": "Hospital e carro pagos; noticiário com o Harold preso"
+  },
+  {
+   "id": "B03",
+   "narracao": "",
+   "visual": "Fecho: 'Some debts you pay off with money. That one, I'm still paying.' + Ending 1 of 4"
+  },
+  {
+   "id": "CTA",
+   "narracao": "",
+   "visual": "contador de finais + convite para os outros caminhos"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+# Dependências e saídas locais
+node_modules/
+.pnpm-store/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.remotion/
+
+# Vídeo e áudio pesados (o mp3 dos efeitos do banco é versionado)
+*.mp4
+*.wav
+*.webm
+*.mov
+*.m4a
+*.aac
+AV/out/
+
+# Segredos e temporários
+.env
+.env.*
+**/.secrets/
+*.dpapi
+*.tmp
+*.log
+INTEGRACOES/ELEVENLABS/_teste_trava/

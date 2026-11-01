@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "remotion-studio",
+      "runtimeExecutable": "powershell.exe",
+      "runtimeArgs": [
+        "-NoProfile",
+        "-Command",
+        "Set-Location 'D:\\HISTORIAS BIFURCADAS\\AV'; & 'C:\\Users\\fabio\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe' node_modules/@remotion/cli/remotion-cli.js studio src/index.jsx --port 3020 --no-open"
+      ],
+      "port": 3020
+    }
+  ]
+}

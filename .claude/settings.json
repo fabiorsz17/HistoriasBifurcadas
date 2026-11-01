@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(**/.secrets/**)",
+      "Edit(**/.secrets/**)",
+      "Bash(*.secrets*)",
+      "PowerShell(*.secrets*)",
+      "Bash(*.dpapi*)",
+      "PowerShell(*.dpapi*)",
+      "Bash(*api.elevenlabs.io*)",
+      "PowerShell(*api.elevenlabs.io*)",
+      "Edit(/INTEGRACOES/ELEVENLABS/registro_elevenlabs.json)",
+      "Read(~/Documents/**)",
+      "Read(~/Pictures/**)",
+      "Read(~/Downloads/**)",
+      "Read(~/AppData/Roaming/**)"
+    ],
+    "ask": [
+      "Edit(/INTEGRACOES/ELEVENLABS/narracao_unica.py)",
+      "Bash(*narracao_unica.py autorizar*)",
+      "PowerShell(*narracao_unica.py autorizar*)",
+      "Bash(*narracao_unica.py liberar*)",
+      "PowerShell(*narracao_unica.py liberar*)",
+      "Bash(*narracao_unica.py gerar*)",
+      "PowerShell(*narracao_unica.py gerar*)"
+    ]
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "C:\\Users\\fabio\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe \"D:\\HISTORIAS BIFURCADAS\\INTEGRACOES\\JEV\\roteador.py\"",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

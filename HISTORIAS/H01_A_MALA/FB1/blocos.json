@@ -1,0 +1,24 @@
+{
+ "blocos": [
+  {
+   "id": "B01",
+   "narracao": "",
+   "visual": "Kai conta tudo"
+  },
+  {
+   "id": "B02",
+   "narracao": "",
+   "visual": "A detetive cruza nine-ten com o recibo do app e o carimbo BM"
+  },
+  {
+   "id": "B03",
+   "narracao": "",
+   "visual": "Harold solto, Brandt investigado; sem recompensa; 'I lost the car. But I slept fine.' + Ending 3 of 4"
+  },
+  {
+   "id": "CTA",
+   "narracao": "",
+   "visual": "contador de finais + convite para os outros caminhos"
+  }
+ ]
+}

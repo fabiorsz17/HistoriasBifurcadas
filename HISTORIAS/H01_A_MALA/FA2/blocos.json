@@ -1,0 +1,24 @@
+{
+ "blocos": [
+  {
+   "id": "B01",
+   "narracao": "",
+   "visual": "Fuga de madrugada sem violência: ponte, carro cinza, atalho de motorista de aplicativo"
+  },
+  {
+   "id": "B02",
+   "narracao": "",
+   "visual": "A advogada recebe a bolsa ao amanhecer"
+  },
+  {
+   "id": "B03",
+   "narracao": "",
+   "visual": "Harold solto explica o carro sem adesivo e o 'I'm sorry'; carro recolhido; esperança + Ending 2 of 4"
+  },
+  {
+   "id": "CTA",
+   "narracao": "",
+   "visual": "contador de finais + convite para os outros caminhos"
+  }
+ ]
+}

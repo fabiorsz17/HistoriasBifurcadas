@@ -1,0 +1,24 @@
+{
+ "blocos": [
+  {
+   "id": "B01",
+   "narracao": "",
+   "visual": "Recapitulação + mapa; Laura no diner; oferta de five thousand dollars e pedido de guardar a bolsa até a advogada"
+  },
+  {
+   "id": "B02",
+   "narracao": "",
+   "visual": "Vince entra; Laura vai ao banheiro; oferta de fifty grand ('She's lying to you')"
+  },
+  {
+   "id": "B03",
+   "narracao": "",
+   "visual": "A dúvida: queixa de furto no celular do Vince; Laura chorando ao telefone pela janela"
+  },
+  {
+   "id": "ESCOLHA",
+   "narracao": "",
+   "visual": "TelaEscolha (20 s)"
+  }
+ ]
+}

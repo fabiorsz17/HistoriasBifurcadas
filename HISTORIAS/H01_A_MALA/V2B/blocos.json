@@ -1,0 +1,29 @@
+{
+ "blocos": [
+  {
+   "id": "B01",
+   "narracao": "",
+   "visual": "Recapitulação + mapa; delegacia; Detective Bell; dinheiro achado vai à polícia e o dono costuma dar recompensa"
+  },
+  {
+   "id": "B02",
+   "narracao": "",
+   "visual": "Harold detido no aeroporto; Laura chega"
+  },
+  {
+   "id": "B03",
+   "narracao": "",
+   "visual": "O horário da queixa: nine-ten ('he wasn't even in my car yet')"
+  },
+  {
+   "id": "B04",
+   "narracao": "",
+   "visual": "Vince como representante; Brandt no viva-voz oferece dez por cento (twenty thousand dollars)"
+  },
+  {
+   "id": "ESCOLHA",
+   "narracao": "",
+   "visual": "TelaEscolha (20 s)"
+  }
+ ]
+}

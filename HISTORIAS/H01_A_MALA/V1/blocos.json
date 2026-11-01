@@ -1,0 +1,39 @@
+{
+ "blocos": [
+  {
+   "id": "B01",
+   "narracao": "",
+   "visual": "Gancho: two hundred thousand dollars no porta-malas e o telefone tocando; volta no tempo"
+  },
+  {
+   "id": "B02",
+   "narracao": "",
+   "visual": "Como funciona (FMT-005): fala fixa do canal + mapa da árvore"
+  },
+  {
+   "id": "B03",
+   "narracao": "",
+   "visual": "A vida do Kai: aviso do aluguel semanal, conta do hospital na geladeira, sexta fraca"
+  },
+  {
+   "id": "B04",
+   "narracao": "",
+   "visual": "A corrida: Harold nervoso, caminho estranho, dois carros cancelados, mexe embaixo do banco ('Dropped my pen'), 'Thank you, Kai. I'm sorry.'"
+  },
+  {
+   "id": "B05",
+   "narracao": "",
+   "visual": "O baque: posto 24 horas, bolsa pesada, costura torta, cintas carimbadas BM"
+  },
+  {
+   "id": "B06",
+   "narracao": "",
+   "visual": "O telefone: Laura pede para não ir à polícia hoje; carro cinza com o farol apontado; aviso 'Your choice is coming'"
+  },
+  {
+   "id": "ESCOLHA",
+   "narracao": "",
+   "visual": "TelaEscolha (20 s)"
+  }
+ ]
+}

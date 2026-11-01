@@ -25,3 +25,8 @@ AV/out/
 *.tmp
 *.log
 INTEGRACOES/ELEVENLABS/_teste_trava/
+
+# Narração gerada (inédita até a publicação) e cópias usadas no Remotion; os efeitos do banco continuam versionados
+HISTORIAS/**/audio/
+HISTORIAS/**/_previa_audio/
+AV/public/h01/
